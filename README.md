@@ -1,4 +1,5 @@
-![Static Badge]([https://img.shields.io/badge/Badge](https://img.shields.io/badge/Author-Xinlu%20Shi-blue))
+![Static Badge](https://img.shields.io/badge/Author-Xinlu%20Shi-blue)
+
 
 # project-permed
 
