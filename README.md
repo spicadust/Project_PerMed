@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/spicadust/Project_PerMed)
+![Static Badge](https://img.shields.io/badge/Badge)
 
 # project-permed
 
