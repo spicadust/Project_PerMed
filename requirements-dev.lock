@@ -10,5 +10,4 @@
 #   universal: false
 
 -e file:.
-numpy==2.1.0
-    # via project-permed
+ruff==0.6.3

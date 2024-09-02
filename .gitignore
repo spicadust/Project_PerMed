@@ -1,3 +1,6 @@
+# OSX File system files
+.DS_Store
+
 # python generated files
 __pycache__/
 *.py[oc]
@@ -8,3 +11,6 @@ wheels/
 
 # venv
 .venv
+
+# cache
+.ruff_cache
