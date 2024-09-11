@@ -32,7 +32,7 @@
   
   From the plots and summarized data, several key observations can be made. **ChEBI** and **Ingredients** are almost always present across the datasets. Only 4 drugs lack ingredient information, and just 10 drugs lack a ChEBI code. This is expected, as substances inherently have ingredients, and most drugs tend to have a corresponding ChEBI code due to their chemical nature. Among all missing properties, the absence of an **ATC code** is the most common.
 
-The tables below provide information on a subset of the drugs missing these properties, as displaying all drugs would be impractical due to the large number of entries (e.g., 682 drugs are missing an ATC code).
+The tables below provide information on a subset of the drugs missing these properties, as displaying all drugs would be impractical due to the large number of entries (e.g. 431 drugs are missing ATC Codes). For the full drug lists of missing properties, see `lacks_atc.csv`, `lacks_drugbank.csv`, `lacks_chebi.csv` and `lacks_ingredients.csv`.
 <div align="center">
 <img src="../../figures/eda_lacking.png" alt="Missing Ingredient" width="400"/>
 <p><b>Figure 4:</b> Missing Ingredient</p>
@@ -54,17 +54,20 @@ The tables below provide information on a subset of the drugs missing these prop
 
 - **Missing Ingredients**:
   1. The ingredient information is actually indicated in the drug name, but the dataset fails to capture it.
-  2. The drug name refers to a general substance (e.g., "Senna Leaves"), and the active ingredient is not explicitly known or recorded.
+  2. The drug name refers to a general substance (e.g. **Senna Leaves**), and the active ingredient is not explicitly recorded.
 
 - **Missing ChEBI Code**:
   1. Some drugs missing a ChEBI code actually have one, but it was not recorded due to dataset errors.
-  2. The drug name refers to a general substance without a clear active ingredient.
+  2. The drug name refers to a general substance without a clear active ingredient (e.g. **Senna pod**).
+  3. Some drugs do not fit within the ChEBI classification system (e.g. **Lactobacillus paracasei**, a species of probiotic bacteria)
 
 - **Missing ATC Code**:
-  1. Certain drugs without an ATC code do have one, but it was omitted due to dataset inaccuracies (e.g., **Camphor**).
-  2. The recorded substance is a general substance rather than an active ingredient (e.g., **coal tar**, **cod liver oil**).
-  3. The active ingredient is known but not classified as a therapeutic drug, so it is excluded from the ATC system (e.g., **PPG-1-PEG-9 LAURYL GLYCOL ETHER**, a surfactant used in cosmetics; **Influenza A virus**, where the vaccine has an ATC code, but the virus itself does not).
+  1. Certain drugs without an ATC code do have one, but it was omitted due to dataset inaccuracies (e.g. **Camphor**).
+  2. The recorded substance is a general substance rather than an active ingredient.
+  3. The active ingredient is known but not classified as a therapeutic drug, so it is excluded from the ATC system (e.g. **PPG-1-PEG-9 LAURYL GLYCOL ETHER**, a surfactant used in cosmetics).
 
 - **Missing DrugBank Information**:
-  The reasons for missing DrugBank information are similar to those for missing ATC codes, often due to the dataset's omission or the substance not fitting within the DrugBank classification system.
 
+    The reasons for missing DrugBank information are similar to those for missing ATC codes, often due to the dataset's omission or the substance not fitting within the DrugBank classification system.
+
+    The 74 drugs that lack only DrugBank seem counterintuitive beacuse if a drug has an ATC Code, it is highly likely that it has DrugBank information. To figure this out, the 74 drugs missing only DrugBank are filtered out (see `lacks_only_drugbank.csv`). It turns out that these drugs are mostly in DrugBank but lack DrugBank information due to the dataset's omission. 
