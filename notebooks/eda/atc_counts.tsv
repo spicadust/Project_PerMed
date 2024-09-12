@@ -1,0 +1,1142 @@
+drug_concept_id	atc_count	concept_name
+501343	1	hepatitis B immune globulin
+1717704	1	valacyclovir
+1717963	1	ertapenem
+1724827	1	zalcitabine
+1724869	1	didanosine
+1727223	1	atazanavir
+1727443	1	paromomycin
+1729720	1	penicillin V
+1736829	1	fosamprenavir
+1736887	1	linezolid
+1736971	1	abacavir
+1738135	1	efavirenz
+1740226	1	cadexomer iodine
+1743222	1	enoxacin
+1748921	1	ritonavir
+1749008	1	cefpodoxime
+1749083	1	ceftibuten
+1749301	1	ethambutol
+1750461	1	praziquantel
+1750500	1	clarithromycin
+1751310	1	primaquine
+1753745	1	albendazole
+1756831	1	darunavir
+1758536	1	etravirine
+1759270	1	pyrantel
+1759455	1	pyrazinamide
+1760039	1	pyrimethamine
+1760616	1	quinine
+1714319	1	naltrexone
+1714277	1	voriconazole
+1714165	1	peginterferon alfa-2a
+1713332	1	amoxicillin
+1588000	1	desogestrel
+1592180	1	cerivastatin
+1594973	1	chlorpropamide
+1595461	1	ethynodiol
+1595799	1	ferrous fumarate
+1597235	1	follitropin beta
+1597756	1	glimepiride
+1598658	1	clofibrate
+1598819	1	clomiphene
+1636145	1	stanozolol
+1636780	1	testosterone
+1701928	1	activated charcoal
+1702911	1	telithromycin
+1762711	1	ribavirin
+1703063	1	valganciclovir
+1703653	1	itraconazole
+1704139	1	posaconazole
+1704183	1	lamivudine
+1705674	1	trimethoprim
+1708748	1	zanamivir
+1709170	1	meropenem
+1710281	1	tenofovir disoproxil
+1710446	1	cycloserine
+1710612	1	zidovudine
+1711246	1	entecavir
+1711523	1	indinavir
+1711947	1	deferoxamine
+1712889	1	raltegravir
+1703069	1	emtricitabine
+1763204	1	rifampin
+1768734	1	hexachlorophene
+1768849	1	cefaclor
+19004539	1	lacidipine
+19004724	1	methionine
+19004969	1	trientine
+19005046	1	pyridoxine
+19005147	1	methotrimeprazine
+19005570	1	trimeprazine
+19006186	1	tryptophan
+19006586	1	rufinamide
+19007490	1	metyrapone
+19007721	1	thyrotropin
+19007737	1	mianserin
+19007803	1	lofexidine
+19007977	1	lormetazepam
+19004049	1	nicofuranose
+19008009	1	cosyntropin
+19008361	1	tacalcitol
+19008994	1	mebeverine
+19008999	1	mebhydroline
+19009145	1	mequitazine
+19009540	1	vitamin E
+19009705	1	lenograstim
+19010015	1	cyclopenthiazide
+19010493	1	xipamide
+19010652	1	moclobemide
+19010792	1	cyproterone
+19010886	1	zuclopenthixol
+19011021	1	moxonidine
+19011064	1	tiludronic acid
+19008261	1	viloxazine
+1584910	1	somatropin
+19003140	1	mesterolone
+19002800	1	tropisetron
+1769389	1	nevirapine
+1769535	1	cefadroxil
+1774470	1	cefotaxime
+1776684	1	ceftazidime
+1777087	1	hydroxychloroquine
+1777417	1	rifabutin
+1777806	1	ceftriaxone
+1780601	1	iodine
+1781733	1	atovaquone
+1782521	1	isoniazid
+1786055	1	deferasirox
+1786621	1	cephalexin
+1786842	1	cephradine
+19003010	1	meptazinol
+1792429	1	proguanil
+1794280	1	mebendazole
+1796435	1	cefixime
+1798476	1	clofazimine
+1799139	1	oseltamivir
+1800835	1	cloxacillin
+1836391	1	sulfadiazine
+1836430	1	sulfamethoxazole
+19000498	1	mefloquine
+19000556	1	mefruside
+19000753	1	ferrous glycine sulfate
+19001131	1	sodium ironedetate
+19001305	1	diloxanide
+19002230	1	hydrotalcite
+1792515	1	chloroquine
+1583722	1	exenatide
+1580747	1	sitagliptin
+1563600	1	chorionic gonadotropin
+1353766	1	propranolol
+1353776	1	felodipine
+1354118	1	epoprostenol
+1354860	1	flecainide
+1356018	1	prucalopride
+1356461	1	flutamide
+1358436	1	dasatinib
+1360332	1	glucosamine
+1360421	1	quinidine
+1363053	1	doxazosin
+1363387	1	sorafenib
+1363749	1	fosinopril
+1366310	1	goserelin
+1353256	1	propafenone
+1367500	1	losartan
+1373225	1	perindopril
+1373928	1	hydralazine
+1376289	1	hydroflumethiazide
+1377141	1	hydroxyurea
+46234437	1	ivabradine
+1379525	1	inositol
+1379969	1	interferon alfa-2a
+1380068	1	interferon alfa-2b
+1381253	1	anagrelide
+1385800	1	yohimbine
+1386957	1	labetalol
+1387104	1	trastuzumab
+1389464	1	levamisole
+1370109	1	sotalol
+1389888	1	bexarotene
+1352890	1	dextran
+1351557	1	candesartan
+1335301	1	phenoxybenzamine
+1335606	1	disopyramide
+1336825	1	bortezomib
+1336926	1	tadalafil
+1337068	1	ambrisentan
+1337107	1	ranolazine
+1337620	1	capecitabine
+1338005	1	bisoprolol
+1340128	1	captopril
+1341149	1	temozolomide
+1341238	1	terazosin
+1341927	1	enalapril
+1342439	1	trandolapril
+1352213	1	factor VIII
+1343039	1	triptorelin
+1344381	1	bicalutamide
+1344992	1	iloprost
+1345141	1	mibefradil
+1345205	1	ergonovine
+1345858	1	pindolol
+1346686	1	eprosartan
+1346823	1	carvedilol
+1347384	1	irbesartan
+1348265	1	anastrozole
+1350310	1	cilostazol
+1350489	1	prazosin
+1351115	1	ubidecarenone
+1351541	1	leuprolide
+1343346	1	vinorelbine
+19011091	1	deferiprone
+1390051	1	chlorambucil
+1395058	1	chlorthalidone
+1522957	1	octreotide
+1524674	1	zoledronic acid
+1525215	1	pioglitazone
+1526475	1	ezetimibe
+1529331	1	acarbose
+1536743	1	ganirelix
+1537655	1	salmon calcitonin
+1539403	1	simvastatin
+1541079	1	corticotropin
+1542948	1	follitropin alfa
+1544838	1	insulin glulisine, human
+1545958	1	atorvastatin
+1547504	1	rosiglitazone
+1521987	1	teriparatide
+1548111	1	cinacalcet
+1549080	1	estrogens, conjugated (USP)
+1549686	1	fluvastatin
+1551803	1	fenofibrate
+1551860	1	pravastatin
+1552310	1	progesterone
+1553610	1	levocarnitine
+1554072	1	propylthiouracil
+1555120	1	fludrocortisone
+1558242	1	gemfibrozil
+1559684	1	glyburide
+1560171	1	glipizide
+1560278	1	glucagon
+1563413	1	ritodrine
+1548195	1	estradiol
+1394023	1	nilotinib
+1520218	1	betaine
+1518148	1	colesevelam
+1395573	1	chondroitin sulfates
+1395773	1	iron sucrose
+1396012	1	ferrous gluconate
+1396131	1	ferrous sulfate
+1397059	1	valerian root extract
+1397599	1	cisplatin
+1398039	1	St. John's wort extract
+1398399	1	exemestane
+1436169	1	antithrombin III
+1436650	1	mercaptopurine
+1436678	1	tamoxifen
+1437379	1	thioguanine
+1501617	1	colestipol
+1519936	1	etonogestrel
+1502809	1	tolazamide
+1502905	1	insulin glargine
+1503297	1	metformin
+1503501	1	lanreotide
+1507558	1	nafarelin
+1510417	1	cannabidiol
+1510813	1	rosuvastatin
+1511449	1	danazol
+1512674	1	drospirenone
+1513103	1	raloxifene
+1515417	1	urofollitropin
+1516766	1	repaglinide
+1516976	1	insulin detemir
+1517070	1	desmopressin
+1502826	1	nateglinide
+19011355	1	etoricoxib
+19011904	1	potassium aminobenzoate
+19011951	1	debrisoquin
+19122327	1	imidapril
+19123348	1	aluminum oxide
+19124477	1	lithium
+19129648	1	papaveretum
+19133992	1	pipothiazine
+19135830	1	rabies immune globulin, human
+19135931	1	cyanocobalamin Co57
+19136066	1	somatostatin
+19136187	1	streptokinase
+19136626	1	sulpiride
+19136654	1	apazone
+19137042	1	thalidomide
+19137312	1	thiamine
+19122137	1	vildagliptin
+19137377	1	thimerosal
+35604680	1	tetanus immune globulin
+35604901	1	brivaracetam
+35606465	1	elbasvir
+35606467	1	grazoprevir
+35606631	1	mepolizumab
+40161532	1	ustekinumab
+40163615	1	dronedarone
+40163718	1	prasugrel
+40164052	1	asenapine
+40166035	1	saxagliptin
+40167554	1	pazopanib
+40170680	1	dalfampridine
+40170911	1	liraglutide
+35602717	1	insulin degludec
+40171288	1	tocilizumab
+19102109	1	zotepine
+19100440	1	terodiline
+19084693	1	reboxetine
+19084915	1	karaya gum
+19086100	1	mizolastine
+19086560	1	danthron
+19086712	1	peppermint oil
+19086888	1	deflazacort
+19087090	1	amantadine
+19087394	1	lacosamide
+19088223	1	amdinocillin pivoxil
+19091239	1	domiphen
+19091464	1	dichlorophen
+19091514	1	aminacrine
+19091830	1	lofepramine
+19100761	1	felbinac
+19092283	1	chlormethiazole
+19092353	1	lymecycline
+19092377	1	lysine
+19092412	1	chlorobutanol
+19095164	1	cholecalciferol
+19095285	1	ethanolamine oleate
+19095309	1	cholestyramine resin
+19095703	1	fenbufen
+19095744	1	ferric ammonium citrate
+19097405	1	fusafungin
+19097481	1	cinnarizine
+19097867	1	calcium glubionate
+19098741	1	levobupivacaine
+19099181	1	clopamide
+19092290	1	chlormezanone
+19083285	1	inosine pranobex
+40175900	1	polidocanol
+40226579	1	fingolimod
+43013884	1	alogliptin
+43014237	1	pomalidomide
+43526424	1	dimethyl fumarate
+43526465	1	canagliflozin
+43532113	1	parathyroid hormone
+43532299	1	dabrafenib
+43533015	1	ferric hydroxide
+43560385	1	dolutegravir
+44506752	1	riociguat
+44506754	1	lixisenatide
+44507700	1	vortioxetine
+44507780	1	eslicarbazepine
+44507848	1	ibrutinib
+43013024	1	apixaban
+44785094	1	sofosbuvir
+44785885	1	von Willebrand factor
+44816294	1	apremilast
+45774435	1	dulaglutide
+45774613	1	naloxegol
+45774751	1	empagliflozin
+45775116	1	olodaterol
+45775206	1	pirfenidone
+45775396	1	nintedanib
+45775570	1	polystyrene sulfonate
+45775571	1	glycopyrronium
+45776944	1	idelalisib
+45892847	1	edoxaban
+45892883	1	secukinumab
+44785829	1	dapagliflozin
+40222444	1	denosumab
+43012199	1	chloroform
+42904177	1	perampanel
+40228152	1	dabigatran etexilate
+40230761	1	lurasidone
+40234201	1	butylscopolamine
+40238770	1	boceprevir
+40238930	1	rilpivirine
+40239056	1	abiraterone
+40239216	1	linagliptin
+40239330	1	telaprevir
+40239985	1	fidaxomicin
+40239995	1	ezogabine
+40240664	1	indacaterol
+40241186	1	ticagrelor
+40241331	1	rivaroxaban
+42904205	1	tofacitinib
+40241937	1	vemurafenib
+42709320	1	ingenol mebutate
+42709322	1	axitinib
+42709325	1	tafluprost
+42800027	1	varicella-zoster virus vaccine live (Oka-Merck) strain
+42800040	1	avanafil
+42801287	1	pertuzumab
+42873636	1	mirabegron
+42873638	1	carfilzomib
+42899052	1	eosine yellowish
+42900250	1	enzalutamide
+42900401	1	bosutinib
+42900505	1	linaclotide
+42903427	1	aldosterone
+40242675	1	crizotinib
+1334456	1	ramipril
+19081195	1	buclizine
+19080458	1	eculizumab
+19024770	1	biotin
+19024904	1	oxprenolol
+19025274	1	oxygen
+19025498	1	piretanide
+19026134	1	poldine
+19026180	1	digitoxin
+19026459	1	tapentadol
+19026972	1	lenalidomide
+19027958	1	fesoterodine
+19028050	1	penicillamine
+19028106	1	isopropyl alcohol
+19029018	1	prolintane
+19029398	1	acemetacin
+19024249	1	clodronic acid
+19029644	1	acipimox
+19030353	1	bromazepam
+19030751	1	alverine
+19032407	1	romiplostim
+19032619	1	amorolfine
+19033280	1	buserelin
+19033634	1	artemether
+19033934	1	phenindione
+19034275	1	bambuterol
+19035226	1	remoxipride
+19035856	1	distigmine
+19036797	1	tolvaptan
+19036946	1	benzyl benzoate
+19037401	1	calcium phosphate
+19030059	1	alginic acid
+19037560	1	bifonazole
+19024213	1	pholcodine
+19024063	1	acenocoumarol
+19012346	1	eltrombopag
+19012565	1	mycophenolic acid
+19014035	1	nafronyl
+19014158	1	nalmefene
+19014202	1	alfacalcidol
+19014878	1	azathioprine
+19014977	1	nicorandil
+19015602	1	nefopam
+19015768	1	methoxy polyethylene glycol-epoetin beta
+19015802	1	lercanidipine
+19016435	1	benorilate
+19016440	1	benperidol
+19016754	1	benzbromarone
+19024140	1	quinagolide
+19016889	1	magnesium orotate
+19018403	1	racecadotril
+19018416	1	niclosamide
+19018419	1	niacinamide
+19019131	1	magnesium aspartate
+19019176	1	nimorazole
+19020002	1	vigabatrin
+19020021	1	nitrazepam
+19020124	1	betahistine
+19021129	1	nitrous oxide
+19021940	1	dextromoramide
+19022417	1	heroin
+19022956	1	bezafibrate
+19023819	1	phenothrin
+19017742	1	febuxostat
+19080512	1	articaine
+19037833	1	domperidone
+19039877	1	sodium perborate
+19054876	1	dienogest
+19054936	1	floxacillin
+19055183	1	flunarizine
+19055224	1	flunitrazepam
+19055982	1	flupenthixol
+19057346	1	copper sulfate
+19057607	1	amisulpride
+19058410	1	degarelix
+19058896	1	calcium lactate
+19058933	1	erdosteine
+19059522	1	gestrinone
+19059528	1	alfentanil
+19059796	1	gliclazide
+19054875	1	dichlorobenzyl alcohol
+19060400	1	quinacrine
+19063387	1	rimiterol
+19063981	1	rutin
+19067073	1	helium
+19069137	1	bemiparin
+19070012	1	sodium tetradecyl sulfate
+19071236	1	lactitol
+19071904	1	lithium succinate
+19072083	1	cyclofenil
+19077093	1	propiverine
+19077143	1	17-alpha-hydroxyprogesterone
+19077884	1	sodium acetate
+19078399	1	teicoplanin
+19078808	1	indoramin
+19060985	1	glutamine
+19037989	1	dothiepin
+19053565	1	periciazine
+19050832	1	clobazam
+19040060	1	dydrogesterone
+19040563	1	carbenoxolone
+19040606	1	carbimazole
+19041065	1	golimumab
+19041220	1	tenoxicam
+19041843	1	carbocysteine
+19041933	1	tibolone
+19042155	1	tolfenamic acid
+19042445	1	tramazoline
+19042545	1	treosulfan
+19042550	1	triazulenone
+19042692	1	triclofos
+19043833	1	xamoterol
+19052903	1	promazine
+19043959	1	acamprosate
+19044883	1	zopiclone
+19045045	1	ergocalciferol
+19046291	1	piperazine
+19046654	1	piracetam
+19046724	1	pirenzepine
+19047071	1	pivampicillin
+19047076	1	pizotyline
+19049145	1	celiprolol
+19049350	1	ethamsylate
+19050216	1	cilazapril
+19050375	1	ciprofibrate
+19050554	1	etretinate
+19050633	1	sertindole
+19044727	1	vitamin K1
+1332418	1	amlodipine
+1378382	1	paclitaxel
+1331247	1	pentoxifylline
+919204	1	amylase
+919681	1	benzyl alcohol
+919986	1	apraclonidine
+920293	1	nitrofurantoin
+922868	1	permethrin
+923645	1	omeprazole
+924566	1	tamsulosin
+924724	1	dicyclomine
+928744	1	dimenhydrinate
+929435	1	acetazolamide
+929504	1	proparacaine
+929638	1	acitretin
+929698	1	boric acid
+929887	1	lansoprazole
+930021	1	alfuzosin
+930916	1	diphenoxylate
+932196	1	cisapride
+932745	1	bumetanide
+932815	1	levobunolol
+933794	1	attapulgite
+934262	1	balsalazide
+936748	1	aprepitant
+937368	1	infliximab
+937439	1	bethanechol
+938044	1	brinzolamide
+918906	1	oxybutynin
+918172	1	benzoyl peroxide
+916751	1	lindane
+916662	1	dimethicone
+902950	1	tolnaftate
+903893	1	emedastine
+904356	1	methenamine
+904453	1	esomeprazole
+904501	1	travoprost
+904525	1	bimatoprost
+904542	1	triamterene
+905371	1	methylcellulose
+905531	1	metipranolol
+906072	1	tropicamide
+906780	1	metoclopramide
+907013	1	metolazone
+938061	1	selenium sulfide
+908360	1	magaldrate
+908921	1	calcipotriene
+909358	1	cyclizine
+909795	1	nepafenac
+910232	1	cyclopentolate
+911735	1	rabeprazole
+912263	1	certolizumab pegol
+913440	1	nabilone
+913782	1	tolterodine
+915935	1	pimecrolimus
+916005	1	solifenacin
+916230	1	darifenacin
+916282	1	olsalazine
+908523	1	mineral oil
+938268	1	sennosides, USP
+940535	1	sulconazole
+942350	1	torsemide
+966913	1	silver nitrate
+966956	1	silver sulfadiazine
+967496	1	lodoxamide
+968426	1	mesalamine
+969004	1	hexylresorcinol
+970250	1	spironolactone
+974166	1	hydrochlorothiazide
+976545	1	potassium citrate
+976778	1	hydroquinone
+977968	1	sodium citrate
+978555	1	indapamide
+979096	1	zinc acetate
+966468	1	halcinonide
+981691	1	imiquimod
+981774	1	adapalene
+984801	1	kaolin
+985247	1	aluminum hydroxide
+987245	1	lactulose
+987366	1	lubiprostone
+989482	1	dutasteride
+990009	1	dipivefrin
+990028	1	lanthanum carbonate
+990678	1	chlordiazepoxide
+991003	1	retapamulin
+991382	1	amiloride
+991825	1	trospium
+981709	1	dorzolamide
+902251	1	hypromellose
+964339	1	sulfasalazine
+963742	1	gramicidin
+944360	1	zinc pyrithione
+947416	1	tazarotene
+947705	1	podofilox
+948078	1	pantoprazole
+948515	1	polyethylene glycols
+948787	1	polythiazide
+949459	1	chloroxylenol
+950316	1	ethyl chloride
+950435	1	citric acid
+950696	1	nizatidine
+950933	1	castor oil
+951279	1	prilocaine
+963889	1	angiotensin II
+951469	1	calcium acetate
+952538	1	anthralin
+953076	1	famotidine
+953391	1	propantheline
+954688	1	latanoprost
+954853	1	flavoxate
+1331270	1	dipyridamole
+956266	1	flurandrenolide
+956874	1	furosemide
+957393	1	aluminum chloride
+958134	1	bismuth subcitrate
+961047	1	ranitidine
+962398	1	glycine
+952004	1	sevelamer
+991876	1	loperamide
+900017	1	cascara sagrada
+836715	1	temazepam
+715458	1	tiagabine
+715710	1	rasagiline
+715727	1	tolcapone
+715939	1	escitalopram
+715997	1	donepezil
+716968	1	desipramine
+718122	1	oxcarbazepine
+718583	1	nicotine
+719057	1	dexfenfluramine
+719174	1	benztropine
+719311	1	dextroamphetamine
+720727	1	zaleplon
+720810	1	pramipexole
+721724	1	nortriptyline
+722031	1	paroxetine
+722424	1	interferon beta-1a
+723013	1	diazepam
+724816	1	oxazepam
+724908	1	biperiden
+725131	1	mirtazapine
+725822	1	diethylpropion
+727835	1	pemoline
+732309	1	pergolide
+732893	1	bupivacaine
+733008	1	perphenazine
+715259	1	duloxetine
+715233	1	baclofen
+714684	1	nefazodone
+713823	1	ropinirole
+529303	1	diphtheria toxoid vaccine, inactivated
+529411	1	tetanus toxoid vaccine, inactivated
+543291	1	varicella-zoster immune globulin
+700299	1	thioridazine
+701322	1	memantine
+702774	1	mepivacaine
+702865	1	meprobamate
+703244	1	paliperidone
+703470	1	tranylcypromine
+703547	1	trazodone
+704599	1	triazolam
+704943	1	methocarbamol
+733301	1	buspirone
+704984	1	trifluoperazine
+705178	1	trihexyphenidyl
+705755	1	trimipramine
+705944	1	methylphenidate
+708298	1	midazolam
+709567	1	lisdexamfetamine
+710062	1	amitriptyline
+710650	1	modafinil
+711584	1	levetiracetam
+711714	1	dantrolene
+712757	1	amobarbital
+713109	1	amoxapine
+713196	1	interferon beta-1b
+705103	1	lamotrigine
+733523	1	rivastigmine
+733896	1	phenelzine
+734275	1	phenobarbital
+756349	1	flurazepam
+757627	1	galantamine
+757688	1	aripiprazole
+759740	1	pyridostigmine
+766209	1	selegiline
+766529	1	haloperidol
+766814	1	quetiapine
+777221	1	hydroxyzine
+778268	1	imipramine
+778474	1	tizanidine
+781039	1	alprazolam
+781705	1	isocarboxazid
+756018	1	fluphenazine
+782211	1	entacapone
+785788	1	olanzapine
+786426	1	rotigotine
+789578	1	levodopa
+791967	1	lorazepam
+792263	1	loxapine
+794147	1	maprotiline
+794852	1	chlorpromazine
+797399	1	gabapentin
+797617	1	citalopram
+798834	1	clomipramine
+798874	1	clonazepam
+800878	1	clozapine
+785649	1	ketamine
+836877	1	tetrabenazine
+755695	1	fluoxetine
+753626	1	propofol
+734354	1	pregabalin
+735340	1	phentermine
+735843	1	natalizumab
+735951	1	riluzole
+735979	1	risperidone
+738818	1	doxylamine
+739138	1	sertraline
+739323	1	droperidol
+739363	1	sibutramine
+740275	1	carbamazepine
+740910	1	phenytoin
+741530	1	orlistat
+754270	1	protriptyline
+742185	1	atomoxetine
+743670	1	venlafaxine
+744740	1	zolpidem
+744798	1	zonisamide
+745268	1	ergoloid mesylates, USP
+745790	1	pimozide
+749910	1	carisoprodol
+750119	1	ethosuximide
+750982	1	bupropion
+751347	1	primidone
+751412	1	fluvoxamine
+752061	1	prochlorperazine
+752276	1	procyclidine
+742267	1	topiramate
+992590	1	chlorothiazide
+955632	1	fluorouracil
+46287466	1	evolocumab
+1119119	1	adalimumab
+1119510	1	dextromethorphan
+1123534	1	phenindamine
+1124957	1	oxycodone
+1308842	1	valsartan
+1308738	1	vitamin B12
+1308473	1	tinzaparin
+1125315	1	acetaminophen
+1118117	1	naratriptan
+1308368	1	midodrine
+1126128	1	diflunisal
+1308216	1	lisinopril
+1307863	1	verapamil
+1126557	1	dihydroergotamine
+1126658	1	hydromorphone
+1307542	1	mexiletine
+1130585	1	pentazocine
+1130863	1	brompheniramine
+1125443	1	dornase alfa
+1116031	1	zolmitriptan
+1309161	1	mitotane
+1309204	1	adenosine
+1106740	1	methysergide
+1107830	1	loratadine
+1314865	1	azacitidine
+1110410	1	morphine
+1314577	1	nebivolol
+1314273	1	rituximab
+1314002	1	atenolol
+1313200	1	nadolol
+1110727	1	cyproheptadine
+1110942	1	omalizumab
+1111706	1	zafirlukast
+1311276	1	vardenafil
+1310756	1	moexipril
+1310317	1	cyclophosphamide
+1113648	1	nabumetone
+1310149	1	warfarin
+1309944	1	amiodarone
+1114771	1	auranofin
+1309799	1	eplerenone
+1307046	1	metoprolol
+1105889	1	triprolidine
+1133993	1	azatadine
+1304850	1	filgrastim
+1236607	1	sulindac
+1153928	1	fenoprofen
+1154077	1	rizatriptan
+1154161	1	montelukast
+1154332	1	pseudoephedrine
+1236493	1	sulfinpyrazone
+1201620	1	codeine
+1163944	1	guaifenesin
+1153664	1	propoxyphene
+1164108	1	salicylamide
+1169352	1	alpha 1-antitrypsin
+1195492	1	etodolac
+1192710	1	chlorpheniramine
+1186087	1	abatacept
+1189458	1	frovatriptan
+1189490	1	dichloralphenazone
+1189596	1	dihydrocodeine
+1189697	1	eletriptan
+1167322	1	allopurinol
+1153428	1	fexofenadine
+1151789	1	etanercept
+1151422	1	probenecid
+1136422	1	levocetirizine
+1304643	1	darbepoetin alfa
+1304107	1	imatinib
+1304044	1	fulvestrant
+1137529	1	salmeterol
+1303425	1	tranexamic acid
+1139179	1	bromfenac
+1140123	1	acrivastine
+1140643	1	sumatriptan
+1302398	1	ticlopidine
+1145379	1	ergotamine
+1301267	1	melphalan
+1301152	1	melatonin
+1301065	1	dalteparin
+1150345	1	meloxicam
+1150770	1	astemizole
+1150836	1	terfenadine
+1301025	1	enoxaparin
+1237049	1	theophylline
+1305447	1	methyldopa
+1105775	1	aminophylline
+1189754	1	rofecoxib
+1321636	1	bosentan
+1037005	1	dronabinol
+1318011	1	oxaliplatin
+1316262	1	sildenafil
+997496	1	cinoxacin
+1101898	1	leflunomide
+1000979	1	guar gum
+1322184	1	clopidogrel
+1317640	1	telmisartan
+1000772	1	granisetron
+1326303	1	digoxin
+1036525	1	sulfur
+1317967	1	aliskiren
+1315942	1	docetaxel
+1326012	1	isradipine
+1315946	1	letrozole
+1325608	1	pegfilgrastim
+1325363	1	erlotinib
+1318137	1	nicardipine
+1319880	1	nisoldipine
+1102527	1	meperidine
+1318853	1	nifedipine
+1331235	1	quinapril
+1101703	1	homatropine
+1036228	1	sucralfate
+993979	1	malathion
+1103640	1	methadone
+1103552	1	almotriptan
+1319133	1	nimodipine
+1036094	1	stannous fluoride
+994341	1	meclizine
+1103518	1	isometheptene
+1103374	1	valdecoxib
+1319998	1	acebutolol
+1103314	1	tramadol
+1319193	1	gefitinib
+1101554	1	colchicine
+1316354	1	bendroflumethiazide
+1315865	1	fondaparinux
+1103006	1	desloratadine
+996625	1	fluorescein
+1000560	1	ondansetron
+997276	1	cimetidine
+1314924	1	gemcitabine
+1321341	1	norepinephrine
+998415	1	clobetasol
+19069022	2	sodium fluoride
+1149196	2	cetirizine
+19068839	2	hexetidine
+19069049	2	collagen
+1742253	2	levofloxacin
+905151	2	alclometasone
+1741309	2	terbinafine
+19011440	2	everolimus
+981654	2	penciclovir
+1549786	2	ethinyl estradiol
+19055156	2	flumethasone
+1549254	2	estrone
+735850	2	disulfiram
+1836191	2	streptomycin
+908464	2	magnesium carbonate
+19062817	2	riboflavin
+19056447	2	fluprednidene
+19056874	2	dexketoprofen
+738156	2	doxepin
+907553	2	levocabastine
+1738521	2	doxycycline
+984232	2	isotretinoin
+1383925	2	isosorbide dinitrate
+1381504	2	alprostadil
+906914	2	urea
+837027	2	apomorphine
+1150871	2	misoprostol
+1326901	2	papaverine
+1197677	2	clemastine
+1196677	2	formoterol
+780442	2	varenicline
+1328165	2	diltiazem
+1507705	2	cortisone
+19095729	2	fenticonazole
+1506602	2	methyltestosterone
+1196514	2	flunisolide
+1763779	2	griseofulvin
+1502855	2	tolbutamide
+1185922	2	ketoprofen
+996416	2	finasteride
+19111620	2	folic acid
+753860	2	fenfluramine
+1754994	2	fluconazole
+992956	2	magnesium hydroxide
+19092849	2	magnesium chloride
+1159811	2	pyrilamine
+1154343	2	albuterol
+1514412	2	nandrolone
+903643	2	tretinoin
+1784444	2	ivermectin
+902938	2	ciclesonide
+902722	2	tobramycin
+902427	2	timolol
+901845	2	colistin
+986117	2	ketotifen
+910888	2	cysteamine
+1322081	2	betaxolol
+1523280	2	diazoxide
+1153013	2	promethazine
+1521369	2	norethindrone
+1781321	2	ipecac
+1778162	2	cefuroxime
+19089408	2	dibrompropamidine
+19089810	2	gonadorelin
+1517824	2	niacin
+1154029	2	fentanyl
+1236744	2	terbutaline
+977421	2	rimexolone
+915855	2	olopatadine
+912362	2	ammonium chloride
+939506	2	sodium bicarbonate
+1354698	2	mesna
+19008870	2	mandelic acid
+1114220	2	naloxone
+1714527	2	demeclocycline
+1716903	2	moxifloxacin
+935529	2	benoxinate
+961145	2	glycerin
+19026096	2	diflucortolone
+935390	2	resorcinol
+1717327	2	ampicillin
+1309068	2	minoxidil
+19007748	2	cetrimide
+1118084	2	celecoxib
+19028947	2	dimethindene
+1361711	2	nitroglycerin
+19029108	2	propamidine
+19029393	2	aceclofenac
+1721543	2	norfloxacin
+717136	2	neostigmine
+19007422	2	moxisylyte
+939881	2	capsaicin
+940183	2	carbachol
+951511	2	mupirocin
+951237	2	antazoline
+950637	2	tacrolimus
+1711759	2	dapsone
+950370	2	carteolol
+955252	2	fluocinonide
+19010482	2	cyclosporine
+43525903	2	polihexanide
+1704758	2	triclosan
+945286	2	pilocarpine
+1312007	2	prasterone
+1102917	2	tolmetin
+943634	2	epinastine
+19018823	2	nicotinyl alcohol
+956653	2	fosfomycin
+942028	2	tioconazole
+941052	2	alitretinoin
+940864	2	econazole
+1703603	2	famciclovir
+939976	2	sodium sulfate
+1551099	2	prednisone
+1123995	2	metaproterenol
+19135788	2	potassium permanganate
+1734104	2	azithromycin
+917336	2	desoximetasone
+974140	2	hydrochloric acid
+1558471	2	cabergoline
+1133201	2	buprenorphine
+40236897	2	roflumilast
+19044522	2	zinc sulfate
+1735947	2	rifaximin
+1134439	2	caffeine
+1135710	2	phenylbutazone
+1377023	2	hydroxocobalamin
+1305058	2	methotrexate
+1757803	2	ganciclovir
+19049038	2	estriol
+19049105	2	potassium chloride
+1036252	2	sulfacetamide
+40225722	2	ulipristal
+914335	2	atropine
+1136980	2	ketorolac
+1129625	2	diphenhydramine
+40244464	2	ruxolitinib
+1036487	2	sulfathiazole
+1728416	2	penicillin G
+19031041	2	diphtheria antitoxin
+1589505	2	levonorgestrel
+928980	2	dimethyl sulfoxide
+40244266	2	aflibercept
+927478	2	pramoxine
+964407	2	salicylic acid
+19035396	2	reproterol
+19035569	2	calcifediol
+19003491	2	isoconazole
+19035631	2	calcitriol
+925102	2	dienestrol
+1366279	2	guanethidine
+924939	2	bisacodyl
+19005129	2	clobetasone
+19037223	2	beta carotene
+1366603	2	octenidine
+1567198	2	insulin aspart, human
+730548	2	bromocriptine
+19035704	2	calcium carbonate
+929549	2	acetic acid
+1300978	3	megestrol
+1398937	3	clonidine
+1367571	3	heparin
+993631	3	magnesium oxide
+19006842	3	tyrothricin
+915542	3	brimonidine
+916460	3	benzalkonium
+955372	3	ethanol
+1560524	3	glucose
+19011773	3	ascorbic acid
+922570	3	nystatin
+923081	3	ofloxacin
+1708880	3	minocycline
+1707687	3	vancomycin
+1702559	3	tinidazole
+19037038	3	calcium gluconate
+19016063	3	dequalinium
+19034726	3	sirolimus
+1703687	3	acyclovir
+943852	3	xylometazoline
+1112807	3	aspirin
+934075	3	azelastine
+1500211	3	medroxyprogesterone
+19025925	3	oxyphenbutazone
+1115008	3	naproxen
+19036781	3	calcium chloride
+914533	3	naphazoline
+1114620	3	nedocromil
+19053979	3	fenoterol
+1746940	3	erythromycin
+1000632	3	clotrimazole
+19078156	3	idoxuridine
+1525866	3	diethylstilbestrol
+965748	3	scopolamine
+1149380	3	fluticasone
+978236	3	eflornithine
+1146810	3	piroxicam
+988294	3	dexpanthenol
+967861	3	magnesium citrate
+967823	3	sodium chloride
+19056694	3	framycetin
+997881	3	clindamycin
+1506270	3	methylprednisolone
+1139042	3	acetylcysteine
+1550023	3	insulin lispro
+1776430	4	hydrogen peroxide
+939871	4	sodium phosphate
+989301	4	cetylpyridinium
+1797513	4	ciprofloxacin
+970011	4	sorbitol
+1036884	4	tetracaine
+19008339	4	vitamin A
+1717240	4	amphotericin B
+985708	4	ketoconazole
+1178663	4	indomethacin
+1115572	4	beclomethasone
+923540	4	phenol
+939259	4	budesonide
+915175	4	bacitracin
+905233	4	mometasone
+917006	4	benzocaine
+1156378	4	flurbiprofen
+19055344	4	fluocortolone
+906874	4	oxyquinoline
+19095043	4	chlortetracycline
+925636	4	oxymetazoline
+1586346	4	insulin, regular, pork
+1124300	4	diclofenac
+19095028	4	chlorquinaldol
+19093848	5	magnesium sulfate
+1177480	5	ibuprofen
+1152631	5	cromolyn
+980867	5	clioquinol
+45892419	5	gentamicin
+1596977	5	insulin, regular, human
+1143374	5	ephedrine
+915392	5	natamycin
+925952	5	oxytetracycline
+948582	5	polymyxin B
+1707164	5	metronidazole
+923840	5	dibucaine
+19019620	5	benzydamine
+907879	6	miconazole
+955583	6	fluorometholone
+1836948	6	tetracycline
+1343916	6	epinephrine
+1750087	6	povidone-iodine
+990069	7	chloramphenicol
+1135766	7	phenylephrine
+989878	7	lidocaine
+903963	8	triamcinolone
+1790812	8	chlorhexidine
+915981	9	neomycin
+975125	9	hydrocortisone
+1550557	11	prednisolone
+1518254	11	dexamethasone
+920458	11	betamethasone
