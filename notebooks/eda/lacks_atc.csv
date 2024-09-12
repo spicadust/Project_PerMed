@@ -1,0 +1,432 @@
+drug_concept_id,concept_name
+938205,camphor
+1195334,choline
+1000995,coal tar
+19101604,cod liver oil
+1319156,dextran 70
+19113045,heparinoids
+1383815,isosorbide
+19087208,lactose
+19087317,lanolin
+926487,pancreatin
+19035577,phenylalanine
+19049024,potassium
+19052317,proflavine
+19066274,selenite
+19000815,strontium
+1836410,sulfadoxine
+19000732,thyroglobulin
+19009405,vitamin D
+19010128,vitamin K
+911064,zinc oxide
+930604,aluminum acetate
+19059630,ethyl linoleate
+996541,fluocinolone
+19069076,hydroxyethyl cellulose
+19009057,menadiol
+19095275,potassium iodate
+1152134,aurothiomalate
+19052936,edetate
+958999,carbamide peroxide
+19059482,cetalkonium chloride
+19078126,sodium polystyrene sulfonate
+711452,benzoate
+19126536,oleate
+19058343,phenoxyethanol
+19136097,Bifidobacterium Infantis
+19011034,citrate
+19011035,lactate
+19016072,certoparin
+19056300,compound benzoin tincture (USP)
+990499,"sodium phosphate, monobasic"
+19090802,calcium lactobionate
+19055492,Capsicum oleoresin
+1197736,mefenamate
+1398499,hops extract
+1513849,"lente insulin, human"
+1531601,"insulin aspart protamine, human"
+986790,azelate
+529114,"L1 protein, human papillomavirus type 18 vaccine"
+530007,Haemophilus influenzae b (Ross strain) capsular polysaccharide meningococcal protein conjugate vaccine
+532274,yellow fever virus strain 17D-204 live antigen
+19047598,"Japanese encephalitis virus vaccine, inactivated"
+19048037,lumefantrine
+40241153,tolu balsam
+42709318,tocopherol
+42800417,ammonia
+42900448,olive oil
+42899916,Piscidia piscipula root bark extract
+42899937,polyethylene glycol 4000
+42899908,Pulsatilla patens extract
+42900435,pentane
+42903504,polyethylene glycol 3500
+42904019,Iris versicolor root extract
+43012252,carbomer-940
+43012447,acetylated lanolin alcohols
+43013629,fennel extract
+43532539,vilanterol
+43532356,glycogen
+44506749,Japanese encephalitis virus
+44784806,hypochlorite
+45775531,amaranth acid
+45775560,ethyl salicylate
+45775020,ledipasvir
+1146220,Lactobacillus paracasei
+19058354,aconite
+19006410,arginine
+19016463,benserazide
+740560,carbidopa
+790253,clorazepate
+19071128,copper
+977949,ichthammol
+1394027,manganese
+19126896,muramidase
+1112921,ipratropium
+724394,orphenadrine
+19132886,phenylethyl alcohol
+19042345,lecithin
+19043395,phosphorus
+957797,psyllium
+19135936,razoxane
+966282,selenium
+19069760,sodium hydroxide
+19070224,soybean oil
+19000726,thymol
+1106647,turpentine
+19010970,vitamin B complex
+19010309,water
+1729323,adefovir
+19037706,bismuth oxide
+19031524,cetyl alcohol
+19037891,chlorocresol
+19068028,glycol salicylate
+908730,magnesium trisilicate
+19008897,manganese sulfate
+509081,meningococcal group C polysaccharide
+909841,methylnaltrexone
+1515774,norgestimate
+19018882,oxitropium
+19041536,testosterone 17-phenylpropionate
+742594,trichloroacetaldehyde
+952045,amphotericin
+1557272,alendronate
+19113001,durapatite
+19115055,sennoside B
+19059707,terpin hydrate
+961304,shark liver oil
+19137031,ispaghula husk
+19001311,epoetin beta
+19015397,activated attapulgite
+919839,Arnica extract
+1738170,lopinavir
+19045290,evening primrose oil
+751889,glatiramer
+986417,polyethylene glycol 3350
+19055378,potassium hydroxyquinoline sulfate
+19090809,nicoboxil
+19055907,amylmetacresol
+19056157,levomenthol
+991710,"sodium phosphate, dibasic"
+19065820,Passiflora incarnata extract
+19071181,manganese citrate
+19071833,Arnica montana extract
+19071840,honey preparation
+523365,"poliovirus vaccine inactivated, type 2 (MEF-1)"
+529076,"L1 protein, human papillomavirus type 11 vaccine"
+529116,"L1 protein, human papillomavirus type 6 vaccine"
+529660,hepatitis A vaccine (inactivated) strain HM175
+532272,"measles virus vaccine live, Enders' attenuated Edmonston strain"
+42898572,carbomer homopolymer type c
+42899620,nutmeg oil
+42898758,chamomile extract
+42898952,coconut oil
+42900359,calcitonin
+42900365,benzene
+42898900,Coffea arabica fruit extract
+42903860,polyaminopropyl biguanide
+42903865,DL-lactic acid
+42904098,Phleum pratense top extract
+43012721,Haemophilus influenzae
+43013089,ethylhexylglycerin
+43013824,terpineol
+43014054,cinnamate
+43013623,erythritol
+43531995,lactoferrin
+43560345,Vibrio cholerae
+44785907,umeclidinium
+44814380,PPG-1-PEG-9 lauryl glycol ether
+45892906,C1 esterase inhibitor
+46221581,insulin isophane
+963858,balsam peru oil
+1511349,Senna pod
+789800,sodium lauryl phosphate
+19016670,docosahexaenoate
+19018544,calcium
+19110701,fish oils
+19063951,guaiacol
+19117912,immunoglobulin G
+1380472,intrinsic factor
+1589795,luteinizing hormone
+19124906,magnesium
+1503184,mestranol
+1521592,norgestrel
+19129638,orotic acid
+19026739,pantothenic acid
+19129738,paraffin
+19033354,petrolatum
+950056,povidone
+19064042,saccharin
+19136048,sodium
+19136184,streptodornase
+19010696,zinc
+949453,chloroxine
+969276,crotamiton
+19090016,dipipanone
+19095341,ethoheptazine
+19003568,isopropyl myristate
+19071999,mecysteine
+909440,methyl salicylate
+19009874,methylnicotinate
+1525278,estropipate
+19027080,potassium bicarbonate
+19027475,potassium sulfate
+19029215,propylparaben
+44785045,protein S
+939863,sodium carbonate
+19041085,tartaric acid
+1353228,vitamin B6
+967562,loteprednol etabonate
+19068715,monofluorophosphate
+787787,hyaluronate
+19001308,oxerutins
+1516800,risedronate
+941258,docusate
+19135825,chloral betaine
+960900,aloe extract
+19061374,halibut liver oil
+19061494,squill extract
+1300751,polysaccharide iron complex
+1512480,ibandronate
+19011093,tenofovir
+924151,pentosan polysulfate
+19018255,pyroglutamate
+1588712,follicle stimulating hormone
+19090180,"insulin, protamine zinc, beef"
+19055496,hexylnicotinate
+901318,sodium ascorbate
+1513876,"insulin lispro protamine, human"
+514012,meningococcal polysaccharide vaccine group W-135
+514015,meningococcal polysaccharide vaccine group Y
+19014215,sodium lauryl sulfoacetate
+19082660,elder extract
+19017671,ginseng preparation
+1518198,norelgestromin
+1560305,omega-3 acid ethyl esters (USP)
+19086910,tiaprofenate
+523202,Salmonella typhi Ty21a live antigen
+523212,rubella virus vaccine live (Wistar RA 27-3 strain)
+529112,"L1 protein, human papillomavirus type 16 vaccine"
+529713,"mumps virus vaccine live, Jeryl Lynn strain"
+544411,rabies virus vaccine flury-lep strain
+42873639,aclidinium
+42900458,pine needle oil (pinus sylvestris)
+42900551,xanthan gum
+42900366,cetostearyl alcohol
+42900351,cajuput oil
+42900035,Zanthoxylum americanum bark extract
+42899438,lactoperoxidase
+42899323,methanol
+42899476,lanthanum
+42903441,influenza A virus
+42903627,dimethyl ether
+43012207,cobalt sulfate
+43012386,lauric acid diethanolamide
+43012408,Streptococcus pneumoniae
+43012496,all-trans-retinol
+43526246,methyl 3-hydroxybenzoate
+43526717,glyceryl phosphate
+43532069,polawax polysorbate
+43532150,prolactin
+43532365,glucose oxidase
+43532347,epidermal growth factor
+44507610,wheat preparation
+44814322,hepatitis A virus
+45775584,picosulfurate
+46234461,benzyl cinnamate
+46275993,influenza A virus (H1N1) antigen
+40161546,beeswax
+949279,carboxymethylcellulose
+19061821,chromium
+19008867,cromoglycate
+19010955,cysteine
+19053864,felypressin
+19054702,fibrinogen
+1756524,formaldehyde
+1761033,glutaral
+1381661,iron-dextran complex
+1388796,leucovorin
+990760,lipase
+901656,menthol
+931973,protease
+945913,pine tar
+947651,podophyllin
+1036157,starch
+19136247,sucrose
+1036690,tannic acid
+1310353,lutein
+19018634,bisabolol
+937725,bismuth subgallate
+937791,bismuth subsalicylate
+19054915,aldioxa
+19097684,gestodene
+19003345,iron sorbitex
+19008864,malic acid
+509079,meningococcal group A polysaccharide
+19009877,methylparaben
+19082898,padimate-O
+922024,paregoric
+922976,Peruvian balsam
+940541,sulfabenzamide
+745466,valproate
+751246,lithium carbonate
+19112563,calcium polystyrene sulfonate product
+1759842,clavulanate
+767410,lithium citrate
+19076714,dibasic potassium phosphate
+19126516,malate
+958527,"belladonna extract, USP"
+1360067,iron
+19060995,rhubarb preparation
+1301125,epoetin alfa
+19010400,fusidate
+1315027,cranberry preparation
+1319219,calcium ascorbate
+19024636,poloxamer 188
+19029278,diethylamine salicylate
+19052430,dibasic sodium phosphate heptahydrate
+19086788,potassium bitartrate
+1389885,red yeast rice
+19055217,carbomer
+19056212,propylene glycol salicylate
+19056802,alpha tocopherol
+19056872,thurfyl salicylate
+19004283,magnesium malate
+19071838,oats preparation
+19013951,"insulin, regular, beef"
+19082736,gentian preparation
+19016537,Frangula preparation
+19123754,ricinoleate
+19127890,inert ingredients
+523283,"poliovirus vaccine inactivated, type 1 (Mahoney)"
+523367,"poliovirus vaccine inactivated, type 3 (Saukett)"
+529118,"Haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine"
+529218,"acellular pertussis vaccine, inactivated"
+532881,"typhoid Vi polysaccharide vaccine, S typhi Ty2 strain"
+42899139,Hypericum extract
+42899142,Hyssopus officinalis extract
+42900069,trehalose
+42898318,aspartame
+42904153,hydroxypropyl cellulose (type e)
+43012157,pine needle oil (pinus mugo)
+43012259,diethyl phthalate
+43012316,dimethicone 350
+43013634,Glycyrrhiza glabra extract
+43525846,Achillea millefolium extract
+43532266,cetearyl alcohol
+43532137,polyoxyl 40 stearate
+43531973,lanolin alcohols
+43532371,glyceryl 1-stearate
+43532418,poliovirus
+44506769,benzyl nicotinamide
+44814269,aminomethylpropanol (perfluoro-C6-C12 ethyl)phosphate
+44818477,Humulus lupulus whole extract
+46234308,rabies virus
+1510492,ursadiol
+1366390,Bifidobacterium breve
+37498625,"hepatitis A virus strain CR 326F antigen, inactivated"
+966376,allantoin
+19016467,bentonite
+19011438,benzoin resin
+729855,botulinum toxin type A
+1337159,calcium glycerophosphate
+19049228,estrogens
+19084696,juniper tar
+19009896,molybdenum
+19033193,pertussis vaccine
+948487,polyethylene glycol 300
+948490,polyethylene glycol 400
+948856,polyvinyl alcohol
+19136040,carbaryl
+966991,simethicone
+19000537,threonine
+1501700,levothyroxine
+1505346,liothyronine
+19033278,peanut oil
+19036731,benzthiazide
+1389780,methylsulfonylmethane
+19069080,hylan
+19011028,mucopolysaccharide polysulfate
+929128,propylene glycol
+19100393,sodium molybdate(VI)
+19100760,titanium dioxide
+19052447,chenodeoxycholate
+1552929,etidronate
+969444,nonoxynol-9
+1180412,Eucalyptus oil
+988095,ursodeoxycholate
+19003999,mycophenolate mofetil
+1106776,tiotropium
+19058341,dichlorobenzene
+19135879,acetyl salicylate
+902616,calamine
+19011162,fennel seed preparation
+19091110,Cynara preparation
+19055757,ethylnicotinate
+19055902,ammonium salicylate
+19091804,magnesium sulfate heptahydrate
+19092061,zinc citrate
+19066566,Verbena extract
+19071836,Calendula officinalis extract
+19013782,D-biotin
+914244,undecylenate
+40226742,olmesartan
+19101454,lauromacrogols
+19112944,phosphate ion
+19113007,bosentan monohydrate
+1586808,"synthetic conjugated estrogens, B"
+986864,nalidixate
+19086939,gamma-linolenate
+19087063,eicosapentaenoate
+528323,hepatitis B surface antigen vaccine
+40161488,Timothy grass pollen extract
+40167729,southern bayberry pollen extract
+40242573,Bifidobacterium longum
+42900100,titanium
+42900339,almond oil
+42899155,Hamamelis virginiana leaf extract
+42899439,lanolin oil
+42900497,lemon oil
+42899436,Krameria lappacea root extract
+42900087,sorbate
+42899461,Lactuca virosa extract
+42900227,Taraxacum officinale whole extract
+42903442,influenza B virus
+42904272,orange juice
+43012168,hydroxypropyl guar (2500-4500 MPA.S at 1%)
+43012315,carbomer-974P
+43012413,triethanolamine lauryl sulfate
+43012913,povidone K25
+43014115,isopentane
+43013872,alginate
+43014259,valerate
+43532046,methyl undecenoyl leucinate
+45775351,bicarbonate ion
+45775636,meningococcal group B vaccine
+46275719,sacubitril
+46276417,white poplar whole extract
+35603775,"lactic acid lactate, DL-"
+35200165,fish oil (containing omega-3 acids)
+992409,Senna Leaves
+19052638,Cobalamins
+19058973,Calcium phosphate dibasic
+42899447,"Insulin, Pork"
