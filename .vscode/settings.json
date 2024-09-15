@@ -1,7 +1,8 @@
 {
-    "[python]": {
+  "[python]": {
       "editor.defaultFormatter": "charliermarsh.ruff",
-      "editor.formatOnSave": true,
-    },
-    "python.analysis.typeCheckingMode": "basic",
+      "editor.formatOnSave": true
+  },
+  "notebook.formatOnSave.enabled": true,
+  "python.analysis.typeCheckingMode": "basic"
 }
