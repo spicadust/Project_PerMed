@@ -1,4 +1,4 @@
-drug_concept_id,unique_people_count,concept_name,atc_code
+drug_concept_id,unique_people_count,concept_name,atc_code,label
 1713332,141912,amoxicillin,J01CA04
 1125315,116112,acetaminophen,N02BE01
 975125,108940,hydrocortisone,A01AC03
@@ -39,7 +39,7 @@ drug_concept_id,unique_people_count,concept_name,atc_code
 1115008,66203,naproxen,M02AA12
 929887,62879,lansoprazole,A02BC03
 1539403,62098,simvastatin,C10AA01
-19010400,61557,,
+19010400,61557,fusidate,D06AX01|J01XC01|S01AA13|D09AA02,manual
 35200165,61139,,
 1115572,60639,beclomethasone,A07EA07
 1115572,60639,beclomethasone,D07AC15

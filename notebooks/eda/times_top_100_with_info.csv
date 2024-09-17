@@ -1,4 +1,4 @@
-drug_concept_id,times_taken,concept_name,atc_code
+drug_concept_id,times_taken,concept_name,atc_code,label
 1112807,927199,aspirin,A01AD05
 1112807,927199,aspirin,B01AC06
 1112807,927199,aspirin,N02BA01
@@ -9,7 +9,7 @@ drug_concept_id,times_taken,concept_name,atc_code
 1115572,378066,beclomethasone,D07AC15
 1115572,378066,beclomethasone,R01AD01
 1115572,378066,beclomethasone,R03BA01
-1501700,365952,,
+1501700,365952,levothyroxine,H03AA01,manual
 1154343,361312,albuterol,R03AC02
 1154343,361312,albuterol,R03CC02
 1548195,340392,estradiol,G03CA03
