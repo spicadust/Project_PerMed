@@ -1,0 +1,366 @@
+drug_concept_id,concept_name,atc_code
+1103006,desloratadine,R06AX27
+985708,ketoconazole,H02CA03
+985708,ketoconazole,D01AC08
+985708,ketoconazole,G01AF11
+985708,ketoconazole,J02AB02
+19018419,niacinamide,A11HA01
+1394027,,
+1741309,terbinafine,D01AE15
+1741309,terbinafine,D01BA02
+19095164,cholecalciferol,A11CC05
+19062817,riboflavin,S01XA26
+19062817,riboflavin,A11HA04
+19008339,vitamin A,D10AD02
+19008339,vitamin A,R01AX02
+19008339,vitamin A,S01XA02
+19008339,vitamin A,A11CA01
+1322184,clopidogrel,B01AC04
+1107830,loratadine,R06AX13
+19137312,thiamine,A11DA01
+1338005,bisoprolol,C07AB07
+929887,lansoprazole,A02BC03
+19005129,clobetasone,D07AB01
+19005129,clobetasone,S01BA09
+1518254,dexamethasone,A01AC02
+1518254,dexamethasone,C05AA09
+1518254,dexamethasone,D07AB19
+1518254,dexamethasone,D07XB05
+1518254,dexamethasone,D10AA03
+1518254,dexamethasone,H02AB02
+1518254,dexamethasone,R01AD03
+1518254,dexamethasone,S01BA01
+1518254,dexamethasone,S01CB01
+1518254,dexamethasone,S02BA06
+1518254,dexamethasone,S03BA01
+1797513,ciprofloxacin,J01MA02
+1797513,ciprofloxacin,S01AE03
+1797513,ciprofloxacin,S02AA15
+1797513,ciprofloxacin,S03AA07
+19113045,,
+19018544,,
+1539403,simvastatin,C10AA01
+19111620,folic acid,V04CX02
+19111620,folic acid,B03BB01
+19129738,,
+904453,esomeprazole,A02BC05
+1705674,trimethoprim,J01EA01
+1103314,tramadol,N02AX02
+529411,"tetanus toxoid vaccine, inactivated",J07AM01
+1136980,ketorolac,M01AB15
+1136980,ketorolac,S01BC05
+1136422,levocetirizine,R06AE09
+19087317,,
+1314002,atenolol,C07AB03
+915981,neomycin,A01AB08
+915981,neomycin,A07AA01
+915981,neomycin,B05CA09
+915981,neomycin,D06AX04
+915981,neomycin,J01GB05
+915981,neomycin,R02AB01
+915981,neomycin,S01AA03
+915981,neomycin,S02AA07
+915981,neomycin,S03AA01
+19044883,zopiclone,N05CF01
+1786621,cephalexin,J01DB01
+901656,,
+743670,venlafaxine,N06AX16
+951279,prilocaine,N01BB04
+46234461,,
+734354,pregabalin,N02BF02
+19037833,domperidone,A03FA03
+19011773,ascorbic acid,G01AD03
+19011773,ascorbic acid,S01XA15
+19011773,ascorbic acid,A11GA01
+19009896,,
+1201620,codeine,R05DA04
+1360067,,
+19037706,,
+19009405,,
+523365,,
+948582,polymyxin B,A07AA05
+948582,polymyxin B,J01XB02
+948582,polymyxin B,S01AA18
+948582,polymyxin B,S02AA11
+948582,polymyxin B,S03AA03
+1146810,piroxicam,M01AC01
+1146810,piroxicam,M02AA07
+1146810,piroxicam,S01BC06
+939881,capsaicin,M02AB01
+939881,capsaicin,N01BX04
+1363053,doxazosin,C02CA04
+990069,chloramphenicol,D06AX02
+990069,chloramphenicol,D10AF03
+990069,chloramphenicol,G01AA05
+990069,chloramphenicol,J01BA01
+990069,chloramphenicol,S01AA01
+990069,chloramphenicol,S02AA01
+990069,chloramphenicol,S03AA08
+1501700,,
+19011028,,
+908464,magnesium carbonate,A02AA01
+908464,magnesium carbonate,A06AD01
+923645,omeprazole,A02BC01
+19115055,,
+979096,zinc acetate,A16AX05
+1790812,chlorhexidine,A01AB03
+1790812,chlorhexidine,B05CA02
+1790812,chlorhexidine,D08AC02
+1790812,chlorhexidine,D09AA12
+1790812,chlorhexidine,R02AA05
+1790812,chlorhexidine,S01AX09
+1790812,chlorhexidine,S02AA09
+1790812,chlorhexidine,S03AA04
+797399,gabapentin,N02BF01
+1703687,acyclovir,D06BB03
+1703687,acyclovir,J05AB01
+1703687,acyclovir,S01AD03
+19016670,,
+1367500,losartan,C09CA01
+43531973,,
+908523,mineral oil,A06AA01
+1308738,vitamin B12,B03BA01
+916460,benzalkonium,D08AJ01
+916460,benzalkonium,D09AA11
+916460,benzalkonium,R02AA16
+991876,loperamide,A07DA03
+911064,,
+1125315,acetaminophen,N02BE01
+1319156,,
+998415,clobetasol,D07AD01
+927478,pramoxine,C05AD07
+927478,pramoxine,D04AB07
+19020124,betahistine,N07CA01
+19043395,,
+45775351,,
+937725,,
+1177480,ibuprofen,C01EB16
+1177480,ibuprofen,G02CC01
+1177480,ibuprofen,M01AE01
+1177480,ibuprofen,M02AA13
+1177480,ibuprofen,R02AX02
+1316354,bendroflumethiazide,C03AA01
+509079,,
+1140643,sumatriptan,N02CC01
+1550557,prednisolone,A01AC04
+1550557,prednisolone,A07EA01
+1550557,prednisolone,C05AA04
+1550557,prednisolone,D07AA03
+1550557,prednisolone,D07XA02
+1550557,prednisolone,H02AB06
+1550557,prednisolone,R01AD02
+1550557,prednisolone,S01BA04
+1550557,prednisolone,S01CB02
+1550557,prednisolone,S02BA03
+1550557,prednisolone,S03BA02
+710062,amitriptyline,N06AA09
+1780601,iodine,D08AG03
+509081,,
+43532069,,
+797617,citalopram,N06AB04
+19010696,,
+1738521,doxycycline,A01AB22
+1738521,doxycycline,J01AA02
+964407,salicylic acid,D01AE12
+964407,salicylic acid,S01BC08
+975125,hydrocortisone,A01AC03
+975125,hydrocortisone,A07EA02
+975125,hydrocortisone,C05AA01
+975125,hydrocortisone,D07AA02
+975125,hydrocortisone,D07XA01
+975125,hydrocortisone,H02AB09
+975125,hydrocortisone,S01BA02
+975125,hydrocortisone,S01CB03
+975125,hydrocortisone,S02BA01
+1707164,metronidazole,A01AB17
+1707164,metronidazole,D06BX01
+1707164,metronidazole,G01AF01
+1707164,metronidazole,J01XD01
+1707164,metronidazole,P01AB01
+19010400,,
+1750500,clarithromycin,J01FA09
+744740,zolpidem,N05CF02
+1185922,ketoprofen,M01AE03
+1185922,ketoprofen,M02AA10
+1152631,cromolyn,A07EB01
+1152631,cromolyn,D11AH03
+1152631,cromolyn,R01AC01
+1152631,cromolyn,R03BC01
+1152631,cromolyn,S01GX01
+966282,,
+1545958,atorvastatin,C10AA05
+19035704,calcium carbonate,A02AC01
+19035704,calcium carbonate,A12AA04
+19024213,pholcodine,R05DA08
+1124300,diclofenac,D11AX18
+1124300,diclofenac,M01AB05
+1124300,diclofenac,M02AA15
+1124300,diclofenac,S01BC03
+19136048,,
+949279,,
+19041843,carbocysteine,R05CB03
+948078,pantoprazole,A02BC02
+987245,lactulose,A06AD11
+981774,adapalene,D10AD03
+1149380,fluticasone,D07AC17
+1149380,fluticasone,R01AD08
+1149380,fluticasone,R03BA05
+939506,sodium bicarbonate,B05CB04
+939506,sodium bicarbonate,B05XA02
+1703603,famciclovir,J05AB09
+1703603,famciclovir,S01AD07
+19101454,,
+19019620,benzydamine,A01AD02
+19019620,benzydamine,G02CC03
+19019620,benzydamine,M01AX07
+19019620,benzydamine,M02AA05
+19019620,benzydamine,R02AX03
+532881,,
+1759842,,
+1521369,norethindrone,G03AC01
+1521369,norethindrone,G03DC02
+1729720,penicillin V,J01CE02
+1332418,amlodipine,C08CA01
+1115008,naproxen,G02CC02
+1115008,naproxen,M01AE02
+1115008,naproxen,M02AA12
+989301,cetylpyridinium,B05CA01
+989301,cetylpyridinium,D08AJ03
+989301,cetylpyridinium,D09AA07
+989301,cetylpyridinium,R02AA06
+1195334,,
+1360332,glucosamine,M01AX05
+19087063,,
+989878,lidocaine,C01BB01
+989878,lidocaine,C05AD01
+989878,lidocaine,D04AB01
+989878,lidocaine,N01BB02
+989878,lidocaine,R02AD02
+989878,lidocaine,S01HA07
+989878,lidocaine,S02DA01
+19026739,,
+19037401,calcium phosphate,A12AA01
+514012,,
+514015,,
+19071128,,
+1115572,beclomethasone,A07EA07
+1115572,beclomethasone,D07AC15
+1115572,beclomethasone,R01AD01
+1115572,beclomethasone,R03BA01
+1149196,cetirizine,S01GX12
+1149196,cetirizine,R06AE07
+19033354,,
+1716903,moxifloxacin,J01MA14
+1716903,moxifloxacin,S01AE07
+1189596,dihydrocodeine,N02AA08
+19011355,etoricoxib,M01AH05
+924939,bisacodyl,A06AB02
+924939,bisacodyl,A06AG02
+752061,prochlorperazine,N05AB04
+1768849,cefaclor,J01DC04
+905233,mometasone,D07AC13
+905233,mometasone,D07XC03
+905233,mometasone,R01AD09
+905233,mometasone,R03BA07
+40234201,butylscopolamine,A03BB01
+42898572,,
+1153664,propoxyphene,N02AC04
+996541,,
+1000632,clotrimazole,A01AB18
+1000632,clotrimazole,D01AC01
+1000632,clotrimazole,G01AF02
+986417,,
+44814322,,
+19088223,amdinocillin pivoxil,J01CA08
+1746940,erythromycin,D10AF02
+1746940,erythromycin,J01FA01
+1746940,erythromycin,S01AA17
+19008994,mebeverine,A03AA04
+1192710,chlorpheniramine,R06AB04
+19036946,benzyl benzoate,P03AX01
+1130863,brompheniramine,R06AB01
+985247,aluminum hydroxide,A02AB01
+739138,sertraline,N06AB06
+715233,baclofen,M03BX01
+19061821,,
+908730,,
+529303,"diphtheria toxoid vaccine, inactivated",J07AF01
+19049038,estriol,G03CA04
+19049038,estriol,G03CC06
+19024770,biotin,A11HA05
+923840,dibucaine,C05AD04
+923840,dibucaine,D04AB02
+923840,dibucaine,N01BB06
+923840,dibucaine,S01HA06
+923840,dibucaine,S02DA04
+19016063,dequalinium,D08AH01
+19016063,dequalinium,G01AC05
+19016063,dequalinium,R02AA02
+19009540,vitamin E,A11HA03
+922976,,
+920458,betamethasone,A07EA04
+920458,betamethasone,C05AA05
+920458,betamethasone,D07AC01
+920458,betamethasone,D07XC01
+920458,betamethasone,H02AB01
+920458,betamethasone,R01AD06
+920458,betamethasone,R03BA04
+920458,betamethasone,S01BA06
+920458,betamethasone,S01CB04
+920458,betamethasone,S02BA07
+920458,betamethasone,S03BA03
+19086939,,
+1396131,ferrous sulfate,B03AA07
+755695,fluoxetine,N06AB03
+19003568,,
+902251,hypromellose,S01KA02
+19049024,,
+19054936,floxacillin,J01CF05
+1347384,irbesartan,C09CA04
+1377023,hydroxocobalamin,B03BA03
+1377023,hydroxocobalamin,V03AB33
+19005046,pyridoxine,A11HA02
+523283,,
+1713332,amoxicillin,J01CA04
+19097481,cinnarizine,N07CA02
+1153428,fexofenadine,R06AX26
+523367,,
+907879,miconazole,A01AB09
+907879,miconazole,A07AC01
+907879,miconazole,D01AC02
+907879,miconazole,G01AF04
+907879,miconazole,J02AB01
+907879,miconazole,S02AA13
+1154343,albuterol,R03AC02
+1154343,albuterol,R03CC02
+1334456,ramipril,C09AA05
+19045045,ergocalciferol,A11CC01
+1112807,aspirin,A01AD05
+1112807,aspirin,B01AC06
+1112807,aspirin,N02BA01
+19058343,,
+19070224,,
+1189754,rofecoxib,M01AH02
+723013,diazepam,N05BA01
+1754994,fluconazole,D01AC15
+1754994,fluconazole,J02AC01
+19124906,,
+919681,benzyl alcohol,P03AX06
+787787,,
+910232,cyclopentolate,S01FA04
+1118084,celecoxib,L01XX33
+1118084,celecoxib,M01AH01
+19056802,,
+1595799,ferrous fumarate,B03AA02
+1139042,acetylcysteine,R05CB01
+1139042,acetylcysteine,S01XA08
+1139042,acetylcysteine,V03AB23
+1549080,"estrogens, conjugated (USP)",G03CA57
+45892419,gentamicin,D06AX07
+45892419,gentamicin,J01GB03
+45892419,gentamicin,S01AA11
+45892419,gentamicin,S02AA14
+45892419,gentamicin,S03AA06
+906780,metoclopramide,A03FA01
+1180412,,
+19030059,alginic acid,A02BX13
