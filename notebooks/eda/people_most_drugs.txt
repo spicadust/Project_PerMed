@@ -1,0 +1,288 @@
+# subject1
+
+ATC level 1 categories:
+atc_level1  count
+S              56
+A              55
+D              54
+R              33
+N              27
+G              26
+C              23
+J              22
+B              13
+M              13
+H               8
+P               4
+L               3
+V               1
+
+Top 10 ATC level 2 categories:
+atc_level2  count
+S01            33
+D07            17
+J01            15
+S02            15
+A01            14
+G01            12
+R01            10
+G04            10
+C05            10
+D01            10
+
+Top 10 ATC level 3 categories:
+atc_level3  count
+A01A           14
+G01A           12
+D07A           11
+S01B           10
+R01A           10
+D01A            9
+S02A            9
+C05A            9
+S01A            8
+M01A            7
+
+Top 10 ATC level 4 categories:
+atc_level4  count
+S02AA           9
+A01AB           8
+R01AD           7
+H02AB           6
+S01BA           6
+C05AA           5
+S03AA           5
+S01AA           5
+M02AA           5
+G01AF           5
+
+# subject 2
+
+ATC level 1 categories:
+atc_level1  count
+A              53
+N              49
+S              48
+D              48
+R              37
+C              26
+J              21
+G              20
+M              17
+B              11
+P               7
+L               6
+H               6
+V               4
+
+Top 10 ATC level 2 categories:
+atc_level2  count
+S01            26
+J01            17
+D07            16
+A01            14
+S02            14
+N06            14
+R03            13
+N02            13
+A07            11
+N05            11
+
+Top 10 ATC level 3 categories:
+atc_level3  count
+A01A           14
+N06A           14
+D07A           10
+G01A            9
+C05A            9
+S01B            9
+M01A            9
+R01A            9
+S01A            8
+S02A            8
+
+Top 10 ATC level 4 categories:
+atc_level4  count
+S02AA           8
+A01AB           7
+R01AD           7
+S01BA           6
+M02AA           5
+C05AA           5
+S03AA           5
+S01AA           5
+R03BA           5
+H02AB           5
+
+# subject 3
+
+ATC level 1 categories:
+atc_level1  count
+A              59
+S              52
+D              47
+R              38
+N              33
+J              28
+C              27
+M              18
+G              15
+B              14
+H               7
+V               4
+P               3
+L               1
+
+Top 10 ATC level 2 categories:
+atc_level2  count
+S01            30
+J01            22
+D07            18
+S02            14
+A01            13
+A10            13
+N02            13
+R03            12
+M01            10
+A02             9
+
+Top 10 ATC level 3 categories:
+atc_level3  count
+A01A           13
+S01A           11
+D07A           11
+M01A           10
+S01B            9
+R01A            9
+A10A            8
+S02A            8
+A02B            8
+G01A            8
+
+Top 10 ATC level 4 categories:
+atc_level4  count
+S02AA           8
+S01AA           8
+H02AB           7
+A01AB           7
+R01AD           7
+S01BA           6
+M02AA           6
+D06AX           5
+S03AA           5
+C05AA           5
+
+# subject 4
+
+ATC level 1 categories:
+atc_level1  count
+A              66
+S              60
+D              52
+R              51
+C              30
+J              20
+G              14
+B              14
+N              10
+M               8
+H               6
+V               3
+P               3
+
+Top 10 ATC level 2 categories:
+atc_level2  count
+S01            37
+D07            19
+R01            17
+J01            17
+R03            17
+A01            14
+S02            14
+A07            13
+G01            11
+A11            10
+
+Top 10 ATC level 3 categories:
+atc_level3  count
+R01A           16
+A01A           14
+S01A           12
+D07A           12
+G01A           11
+A06A            9
+S01B            9
+S02A            9
+C05A            8
+R02A            8
+
+Top 10 ATC level 4 categories:
+atc_level4  count
+S02AA           9
+S01AA           9
+R01AD           8
+A01AB           7
+S03AA           6
+S01BA           6
+R03BA           6
+S01GX           6
+H02AB           5
+A07EA           5
+
+# subject 5
+
+ATC level 1 categories:
+atc_level1  count
+S              55
+A              50
+D              44
+R              34
+J              24
+N              23
+C              19
+M              19
+G              15
+B              12
+H               5
+V               3
+P               3
+L               1
+
+Top 10 ATC level 2 categories:
+atc_level2  count
+S01            33
+J01            17
+D07            14
+S02            13
+A01            11
+M01            11
+A11            10
+A07             9
+S03             9
+R02             8
+
+Top 10 ATC level 3 categories:
+atc_level3  count
+M01A           11
+A01A           11
+S01A           10
+S01B            9
+D07A            9
+R01A            8
+R02A            8
+R06A            7
+S02A            7
+C05A            7
+
+Top 10 ATC level 4 categories:
+atc_level4  count
+S02AA           7
+S03AA           6
+A01AB           6
+R01AD           6
+M02AA           6
+A11HA           5
+S01AA           5
+S01BA           5
+S01BC           4
+S02BA           4
