@@ -70,6 +70,8 @@ fqdn==1.5.1
     # via jsonschema
 h11==0.14.0
     # via httpcore
+hmmlearn==0.3.3
+    # via project-permed
 httpcore==1.0.5
     # via httpx
 httpx==0.27.2
@@ -173,6 +175,7 @@ notebook-shim==0.2.4
     # via notebook
 numpy==2.1.1
     # via contourpy
+    # via hmmlearn
     # via matplotlib
     # via matplotlib-venn
     # via pandas
@@ -256,8 +259,10 @@ rpds-py==0.20.0
     # via referencing
 ruff==0.6.3
 scikit-learn==1.5.2
+    # via hmmlearn
     # via project-permed
 scipy==1.14.1
+    # via hmmlearn
     # via matplotlib-venn
     # via scikit-learn
 seaborn==0.13.2
@@ -292,6 +297,8 @@ tornado==6.4.1
     # via jupyterlab
     # via notebook
     # via terminado
+tqdm==4.67.0
+    # via project-permed
 traitlets==5.14.3
     # via comm
     # via ipykernel
