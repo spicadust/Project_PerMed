@@ -1,0 +1,120 @@
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+df <- read_tsv("data/only_N.tsv")
+atc <- read_tsv("mappings/drug_era/drug_era_atc.tsv") |>
+    # filter(str_starts(`_c13`, "N")) |>
+    mutate(
+        atc_2nd = substr(`_c13`, 1, 5)
+    ) |>
+    filter(str_starts(atc_2nd, "N"))
+# filter(str_starts(atc_2nd, "N05A"))
+
+df |>
+    distinct(eid, drug_concept_id) |>
+    count(eid)
+
+
+
+m_eid <- df |>
+    inner_join(atc, by = c("drug_concept_id" = "drug_concept_id")) # |>
+group_by(drug_concept_id, atc_2nd, concept_name.y) |>
+    summarise(unique_eid_count = n_distinct(eid)) |>
+    arrange(desc(unique_eid_count)) |>
+    filter(drug_concept_id == 752061) |>
+    head()
+mutate(
+    log_unique_eid_count = log(unique_eid_count),
+    concept_name.y = str_to_title(concept_name.y)
+)
+
+m_eid |>
+    filter(unique_eid_count > 500) |>
+    ggplot(aes(y = log_unique_eid_count, fill = atc_2nd, x = atc_2nd)) + # reorder(concept_name.y, unique_eid_count))) +
+    geom_bar(stat = "identity") +
+    #    scale_y_continuous(breaks = seq(0, 1200, by = 300)) +
+    #    scale_fill_brewer(palette = "Dark2") +
+    theme_minimal() +
+    theme(
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 24),
+        axis.text.y = element_text(size = 24),
+        #     legend.position = "bottom",
+        # legend.direction = "horizontal",
+        legend.text = element_text(size = 12),
+        legend.key.size = unit(1, "cm"),
+        legend.title = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+    ) +
+    guides(fill = guide_legend(ncol = 1)) +
+    labs(
+        # x = "Drug",
+        # y = "Number of unique EIDs",
+        # title = "Number of unique EIDs per drug",
+        # fill = "ATC 2nd level"
+    ) #+
+ylim(0, 1150)
+
+df |>
+    mutate(
+        start_date = as.Date(drug_era_end_date, format = "%d/%m/%Y"),
+    ) |>
+    # filter(start_date <= as.Date("01/01/1991", format = "%d/%m/%Y")) #|>
+    pull(start_date) |>
+    max()
+
+df |>
+    count(eid, drug_concept_id) |>
+    count(eid) |>
+    ggplot2::ggplot(aes(x = n)) +
+    geom_histogram(fill = 1, binwidth = 1) +
+    theme_minimal() +
+    scale_fill_brewer(palette = "Set3") +
+    xlim(0, 20)
+
+df |>
+    count(drug_concept_id) |>
+    filter(n == 1) |>
+    count(drug_concept_id)
+ggplot(aes(x = n)) +
+    geom_histogram() +
+    xlim(0, 10000)
+
+```
+
+
+```{r}
+atc <- read_tsv("mappings/drug_era/drug_era_atc.tsv") |>
+    # filter(str_starts(`_c13`, "N")) |>
+    mutate(
+        atc_2nd = substr(`_c13`, 1, 3)
+    ) |>
+    filter(str_starts(atc_2nd, "N"))
+
+m_eid <- df |>
+    filter(drug_concept_id != 1125315) |>
+    inner_join(atc, by = c("drug_concept_id" = "drug_concept_id")) |>
+    group_by(atc_2nd) |>
+    summarize(
+        unique_eid_count = n_distinct(eid)
+    ) |>
+    arrange(desc(unique_eid_count))
+head()
+
+m_eid |>
+    ggplot(aes(y = unique_eid_count, x = reorder(atc_2nd, unique_eid_count), fill = atc_2nd)) +
+    geom_bar(stat = "identity") +
+    scale_fill_brewer(palette = "Dark2", name = "ATC 2nd") +
+    theme_minimal() +
+    xlab("ATC 2nd level") +
+    ylab("Number of unique individuals")
+
+
+df |>
+    filter(drug_concept_id != 1125315)
+
+```
