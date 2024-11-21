@@ -282,6 +282,8 @@ tornado==6.4.1
     # via jupyterlab
     # via notebook
     # via terminado
+tqdm==4.67.0
+    # via project-permed
 traitlets==5.14.3
     # via comm
     # via ipykernel
