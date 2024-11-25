@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Author-Xinlu%20Shi-blue)
-![Static Badge](https://img.shields.io/badge/Author-Lucia%20Sanchez-blue)
+![Static Badge](https://img.shields.io/badge/Author-Lucia%20Sanchez-green)
 
 
 # Project-XS-Permed
