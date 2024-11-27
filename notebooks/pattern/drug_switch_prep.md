@@ -2,24 +2,21 @@
 
 ## terminology
 
-For better clarity, we define some terminology here:
+For better clarification, we define some terminology here:
 
-we say drug era B is a **subsequent drug era** for drug era A if:
+We say drug era B is a **subsequent drug era** for drug era A if:
 - drug era A and drug era B are with the same person, and
 - drug_era_end_date of B > drug_era_start_date of A (i.e. B starts after A ends)
 
-we say drug era B is the **closest subsequent drug era** for drug era A if:
+We say drug era B is the **closest subsequent drug era** for drug era A if:
 - among all the subsequent drug eras of A, B has the ealiest start date (i.e. |drug_era_start_date of B - drug_era_end_date of A| achieves its minimum) \
 (theoretically, for one drug era, there could be multiple closest subsequent drug eras)
 
 
-## data overview
+## multiple closest subsequent drug eras
 
 total number of drug eras: 19,959,413
 total number of people: 281,690
-
-## multiple closest subsequent drug eras
-
 43.56% of drug eras have multiple closest subsequent drug eras.
 among them, total number of switch combinations: 27,022,386
 these drug eras have in avg 3.11 switch combinations.
