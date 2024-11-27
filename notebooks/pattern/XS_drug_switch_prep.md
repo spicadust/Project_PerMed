@@ -51,7 +51,7 @@ For drug era id: 438086668536:
 |-------------|------------|-----------|------------|-----------|
 |438086668536 | naproxen | G02CC02,M01AE02,M02AA12 | 2011-03-18 | 2011-04-14 |
 
-it has 3 subsequent drug eras (switch interval = 244 days):
+it has 3 closest subsequent drug eras (switch interval = 244 days):
 
 | Drug Name | ATC Code | Start Date | End Date |
 |-----------|-----------|------------|-----------|
@@ -69,7 +69,7 @@ For drug era id: 893353273051:
 |---------------|------------|----------|------------|------------|
 | 893353273051  | fluoxetine | N06AB03  | 2004-06-15 | 2004-09-12 |
 
-it has 6 subsequent drug eras (switch interval = 43 days):
+it has 6 closest subsequent drug eras (switch interval = 43 days):
 
 | Drug Name | ATC Code | Start Date | End Date |
 |-----------|----------|------------|-----------|
