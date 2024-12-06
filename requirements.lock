@@ -169,10 +169,12 @@ numpy==2.1.1
     # via matplotlib
     # via matplotlib-venn
     # via pandas
+    # via patsy
     # via project-permed
     # via scikit-learn
     # via scipy
     # via seaborn
+    # via statsmodels
 overrides==7.7.0
     # via jupyter-server
 packaging==24.1
@@ -182,14 +184,18 @@ packaging==24.1
     # via jupyterlab-server
     # via matplotlib
     # via nbconvert
+    # via statsmodels
 pandas==2.2.2
     # via project-permed
     # via seaborn
+    # via statsmodels
     # via upsetplot
 pandocfilters==1.5.1
     # via nbconvert
 parso==0.8.4
     # via jedi
+patsy==1.0.1
+    # via statsmodels
 pexpect==4.9.0
     # via ipython
 pillow==10.4.0
@@ -250,6 +256,7 @@ scipy==1.14.1
     # via hmmlearn
     # via matplotlib-venn
     # via scikit-learn
+    # via statsmodels
 seaborn==0.13.2
     # via project-permed
 send2trash==1.8.3
@@ -268,6 +275,8 @@ soupsieve==2.6
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
+statsmodels==0.14.4
+    # via project-permed
 terminado==0.18.1
     # via jupyter-server
     # via jupyter-server-terminals
