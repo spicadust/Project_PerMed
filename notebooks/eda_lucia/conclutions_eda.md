@@ -1,4 +1,6 @@
-# EDA Analysis Conclusions for UK Biobank Databases
+# EDA Analysis Conclusions for UK Biobank Databases for Opioids
+Drugs for this study: loperamide, methadone,fentanyl, morphine, sufentanil.
+Sufentanil does not appear in the omop database(after searching in the drug_era_atc.tsv).
 
 ## 1. Comparison Between `gp_scripts`, `omop_era`, and `omop_exposure`
 
