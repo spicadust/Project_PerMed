@@ -67,7 +67,7 @@ The table shows that most ATC categories have complete or near-complete drug rep
 <p align="center"><b>Table 6: Statistics on the presence of drugs categorized by second-level ATC codes</b></p>
 
 
-Below are bar charts showing the distribution of second-level ATC codes for each first-level ATC category. These charts display the percentage of drugs present in our dataset, as well as the absence of drugs (represented by zero percentages). For pie charts illustrating the same distribution, refer to `figures/eda_atc/atc_level2_pie`.
+Below are bar charts showing the distribution of second-level ATC codes for each first-level ATC category. These charts display the percentage of drugs present in our dataset, as well as the absence of drugs (represented by zero percentages). For pie charts illustrating the same distribution, refer to `atc.ipynb`.
 
 <div align="center">
 <img src="../../figures/eda_atc/atc_level2_A.png" alt="atc_level2_A" width="1000"/>
