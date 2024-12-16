@@ -45,15 +45,15 @@ The histograms shown below display the full range and progressively focused inte
 The histograms reveal a highly skewed distribution of drug intake frequency. Figure 1 shows that most drugs are taken relatively few times, with a long tail extending to high frequencies. Figures 2-5 provide increasingly detailed views of the lower frequency ranges. This pattern suggests that while there are many drugs in the dataset, a small number of commonly prescribed medications account for a disproportionately large share of total drug intakes, while numerous specialized or less common drugs are taken infrequently.
 
 <div align="center">
-<img src="../../figures/eda_inddrugera_times.png" alt="drug_era_times_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_times.png" alt="drug_era_times_taken_hist" width="600"/>
 <p><b>Figure 1</b></p>
-<img src="../../figures/eda_inddrugera_times200000.png" alt="drug_era_times_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_times200000.png" alt="drug_era_times_taken_hist" width="600"/>
 <p><b>Figure 2</b></p>
-<img src="../../figures/eda_inddrugera_times20000.png" alt="drug_era_times_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_times20000.png" alt="drug_era_times_taken_hist" width="600"/>
 <p><b>Figure 3</b></p>
-<img src="../../figures/eda_inddrugera_times2000.png" alt="drug_era_times_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_times2000.png" alt="drug_era_times_taken_hist" width="600"/>
 <p><b>Figure 4</b></p>
-<img src="../../figures/eda_inddrugera_times200.png" alt="drug_era_times_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_times200.png" alt="drug_era_times_taken_hist" width="600"/>
 <p><b>Figure 5</b></p>
 </div>
 
@@ -122,13 +122,13 @@ To illustrate the frequency distribution of the number of people taking each dru
 The histograms reveal a highly skewed distribution in the number of people taking each drug. Figure 6 shows the full range, with a long tail extending to high user counts. Figures 7-9 provide increasingly detailed views of the lower ranges. This pattern indicates that while most drugs are taken by relatively few people, a small number of widely prescribed medications are used by a large portion of the population. The distribution suggests a power law relationship, with a few common drugs dominating usage and many specialized medications used by only a small number of individuals.
 
 <div align="center">
-<img src="../../figures/eda_inddrugera_people.png" alt="drug_era_people_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_people.png" alt="drug_era_people_taken_hist" width="600"/>
 <p><b>Figure 6</b></p>
-<img src="../../figures/eda_inddrugera_people20000.png" alt="drug_era_people_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_people20000.png" alt="drug_era_people_taken_hist" width="600"/>
 <p><b>Figure 7</b></p>
-<img src="../../figures/eda_inddrugera_people2000.png" alt="drug_era_people_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_people2000.png" alt="drug_era_people_taken_hist" width="600"/>
 <p><b>Figure 8</b></p>
-<img src="../../figures/eda_inddrugera_people100.png" alt="drug_era_people_taken_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_people100.png" alt="drug_era_people_taken_hist" width="600"/>
 <p><b>Figure 9</b></p>
 </div>
 
@@ -194,7 +194,7 @@ The following table shows the summary statistics. With 5,952,228 person-drug com
 
 The histogram below illustrates the frequency distribution of drug intake per person. It shows a highly skewed distribution, with most person-drug combinations having low intake frequencies (1-3 times). There's a long tail extending to higher frequencies, indicating that while most drug uses are infrequent, some individuals take certain medications much more regularly, possibly for chronic conditions.
 <div align="center">
-<img src="../../figures/eda_inddrugera_peopletimes.png" alt="drug_era_times_people_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_inddrugera_peopletimes.png" alt="drug_era_times_people_hist" width="600"/>
 <p><b>Figure 10</b></p>
 </div>
 
@@ -222,7 +222,7 @@ The following table shows the summary statistics. On average, each person takes 
 
 The histogram below shows a right-skewed distribution of unique drugs taken per person. Most people take between 1-40 unique drugs, with a peak around 10-20. A long tail extends to 200+ drugs for some individuals.
 <div align="center">
-<img src="../../figures/eda_drugvariety.png" alt="drug_era_people_drug_variety_hist" width="600"/>
+<img src="../../figures/eda_ind_drug_era/eda_drugvariety.png" alt="drug_era_people_drug_variety_hist" width="600"/>
 <p><b>Figure 11</b></p>
 </div>
 
