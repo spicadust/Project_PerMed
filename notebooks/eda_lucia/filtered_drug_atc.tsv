@@ -1,0 +1,6 @@
+drug_concept_id	concept_name	domain_id	concept_class_id	concept_code	valid_start_date	valid_end_date	invalid_reason	ATC	ATC_First_Level	ATC_Second_Level	First_Level_Name	Second_Level_Name
+1154029	fentanyl	Drug	Ingredient	4337	1970-01-01	2099-12-31		N01AH01	N	N01	Nervous System	Anesthetics
+1154029	fentanyl	Drug	Ingredient	4337	1970-01-01	2099-12-31		N02AB03	N	N02	Nervous System	Analgesics
+1103640	methadone	Drug	Ingredient	6813	1970-01-01	2099-12-31		N07BC02	N	N07	Nervous System	Other Nervous System Drugs
+991876	loperamide	Drug	Ingredient	6468	1970-01-01	2099-12-31		A07DA03	A	A07	Alimentary Tract and Metabolism	Antidiarrheals, Intestinal Anti-inflammatory/Anti-infective Agents
+1110410	morphine	Drug	Ingredient	7052	1970-01-01	2099-12-31		N02AA01	N	N02	Nervous System	Analgesics

@@ -305,7 +305,7 @@ tornado==6.4.1
     # via jupyterlab
     # via notebook
     # via terminado
-tqdm==4.67.0
+tqdm==4.67.1
     # via project-permed
 traitlets==5.14.3
     # via comm

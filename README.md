@@ -1,5 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Author-Xinlu%20Shi-blue)
 ![Static Badge](https://img.shields.io/badge/Author-Lucia%20Sanchez-green)
+![Static Badge](https://img.shields.io/badge/Author-Christopher%20Lynn%20Porterfield-purple)
 
 
 # Project-XS-Permed

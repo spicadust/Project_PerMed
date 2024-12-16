@@ -16,6 +16,7 @@ dependencies = [
     "hmmlearn>=0.3.3",
     "tqdm>=4.67.0",
     "statsmodels>=0.14.4",
+    "tqdm>=4.67.1",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
