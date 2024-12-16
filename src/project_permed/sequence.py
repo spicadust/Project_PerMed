@@ -8,70 +8,95 @@ def from_eid_df(eid_df: pd.DataFrame):
     # Sort by start date
     eid_df = eid_df.sort_values("drug_era_start_date").reset_index(drop=True)
 
-    # Initialize sequence
+    # Convert to numpy arrays for faster operations
+    counts = eid_df["drug_exposure_count"].to_numpy()
+    codes = eid_df["atc_code_num"].to_numpy()
+
+    # Calculate gaps
+    next_starts = eid_df["drug_era_start_date"].shift(-1)
+    gaps = (
+        next_starts - eid_df["drug_era_end_date"] > pd.Timedelta(days=30)
+    ).to_numpy()
+
+    # Pre-calculate total sequence length
     sequence = []
-    for index, row in eid_df.iterrows():
-        next_start_date = (
-            eid_df["drug_era_start_date"].iloc[index + 1]  # type: ignore
-            if index != len(eid_df) - 1
-            else pd.NaT
-        )
-        sequence.append(row["atc_code_num"])
-        if (
-            index != 0
-            and index != len(eid_df) - 1
-            and next_start_date - row["drug_era_end_date"] > pd.Timedelta(days=60)
-        ):
-            sequence.append(0)
-    return sequence
+    total_length = counts.sum() + gaps.sum()
+    sequence = np.empty(int(total_length), dtype=int)
+
+    # Fill sequence
+    pos = 0
+    for i, (count, code, needs_gap) in enumerate(zip(counts, codes, gaps)):
+        sequence[pos : pos + count] = code
+        pos += count
+        if i < len(eid_df) - 1 and needs_gap:
+            sequence[pos] = 0
+            pos += 1
+
+    return sequence[:pos].tolist()
 
 
-def similarity_score(seq1: list, seq2: list) -> int:
+def similarity_score(seq1: list, seq2: list) -> float:
     """
-    Calculate similarity score between two sequences based on their treatment periods.
-    Each unique ending drug is only counted once.
-
-    Scoring rules:
-    - Same ending drug in a period: +3 points (counted once per unique ending)
-    - Same drug before the ending: +1 point
+    Calculate similarity score between two sequences based on drug preferences in treatment periods.
 
     Args:
-        seq1: First sequence of numbers
-        seq2: Second sequence of numbers
+        seq1: First sequence of numbers (treatment periods separated by 0)
+        seq2: Second sequence of numbers (treatment periods separated by 0)
 
     Returns:
-        int: Similarity score
+        float: Normalized similarity score
     """
-    # Split sequences by 0 to get treatment periods
+    # Split sequences into treatment periods
     periods1 = [period for period in "".join(map(str, seq1)).split("0") if period]
     periods2 = [period for period in "".join(map(str, seq2)).split("0") if period]
 
-    total_score = 0
-    counted_endings = set()  # Keep track of endings we've already counted
+    # Convert periods to preference orders (removing duplicates, keeping last occurrence)
+    def get_preferences(period):
+        # Convert string of numbers back to ints and remove duplicates keeping last occurrence
+        nums = [int(x) for x in period]
+        seen = set()
+        preferences = []
+        for num in reversed(nums):
+            if num not in seen:
+                preferences.append(num)
+                seen.add(num)
+        return list(reversed(preferences))  # reverse back to get correct order
 
-    # Compare each period from seq1 with each period from seq2
-    for p1 in periods1:
-        for p2 in periods2:
-            # Convert back to integers
-            p1_nums = [int(x) for x in p1]
-            p2_nums = [int(x) for x in p2]
+    pref_orders1 = [get_preferences(period) for period in periods1]
+    pref_orders2 = [get_preferences(period) for period in periods2]
 
-            # Check ending drugs (3 points)
-            if p1_nums[-1] == p2_nums[-1]:
-                # Only count this ending if we haven't seen it before
-                if p1_nums[-1] not in counted_endings:
-                    total_score += 3
-                    counted_endings.add(p1_nums[-1])
+    raw_score = 0
+    # Compare each pair of treatment periods
+    for prefs1 in pref_orders1:
+        for prefs2 in pref_orders2:
+            # Find common drugs between the two preference lists
+            common_drugs = set(prefs1) & set(prefs2)
 
-                # Check drugs before ending
-                min_len = min(len(p1_nums), len(p2_nums))
-                if min_len > 1:
-                    # Compare all positions before the last one
-                    for i in range(min_len - 1):
-                        if p1_nums[i] == p2_nums[i]:
-                            total_score += 1
+            # award +3 points if the last drug is the same
+            if prefs1[0] == prefs2[0]:
+                raw_score += 1
 
-    return total_score
+            # Compare positions for each pair of common drugs
+            for drug_i in common_drugs:
+                for drug_j in common_drugs:
+                    if drug_i != drug_j:
+                        idx_i1 = prefs1.index(drug_i)
+                        idx_j1 = prefs1.index(drug_j)
+                        idx_i2 = prefs2.index(drug_i)
+                        idx_j2 = prefs2.index(drug_j)
+
+                        # If the relative ordering is the same in both preferences
+                        if (idx_i1 < idx_j1) == (idx_i2 < idx_j2):
+                            raw_score += 1
+
+    # Normalize score using geometric mean of period counts
+    n1, n2 = len(periods1), len(periods2)
+    if n1 == 0 or n2 == 0:
+        return 0.0
+
+    normalized_score = raw_score / (n1 * n2) ** 0.5
+
+    return normalized_score
 
 
 def create_distance_matrix(sequences: list) -> np.ndarray:
@@ -82,21 +107,21 @@ def create_distance_matrix(sequences: list) -> np.ndarray:
     n = len(sequences)
     dist_matrix = np.zeros((n, n))
 
-    # First find the maximum possible similarity score to help with normalization
+    # Calculate similarities and find max in a single pass
     max_similarity = 0
-    for i in range(n):
-        for j in range(i + 1, n):
-            similarity = similarity_score(sequences[i], sequences[j])
-            max_similarity = max(max_similarity, similarity)
+    similarities = {}  # Store (i,j) -> similarity
 
-    # Create distance matrix where distance = max_similarity - similarity
     for i in range(n):
         for j in range(i + 1, n):
-            similarity = similarity_score(sequences[i], sequences[j])
-            # Convert similarity to distance: higher similarity = lower distance
-            distance = max_similarity - similarity
-            dist_matrix[i, j] = distance
-            dist_matrix[j, i] = distance
+            sim = similarity_score(sequences[i], sequences[j])
+            similarities[(i, j)] = sim
+            max_similarity = max(max_similarity, sim)
+
+    # Fill the distance matrix
+    for (i, j), sim in similarities.items():
+        distance = max_similarity - sim
+        dist_matrix[i, j] = distance
+        dist_matrix[j, i] = distance
 
     return dist_matrix
 
