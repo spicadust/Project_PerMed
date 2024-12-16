@@ -5,7 +5,7 @@
 The information on the number of unique ATC codes associated with each drug is stored in the file `atc_counts.tsv`. It includes columns for `drug_concept_id`, the corresponding `drug_concept_name`, and the count of distinct ATC codes (`atc_count`) linked to each drug. The dataset is sorted by `atc_count` in ascending order.
 The figure below shows the distribution of ATC Codes per drug.
 <div align="center">
-<img src="../../figures/atc_count.png" alt="atc_count" width="600"/>
+<img src="../../figures/eda_atc/atc_count.png" alt="atc_count" width="600"/>
 <p><b>Figure 3</b></p>
 </div>
 
@@ -33,11 +33,11 @@ For reference to the ATC classification system and the full class names for the 
 - V: Various
 
 <div align="center">
-<img src="../../figures/atc_level1_bar.png" alt="atc_level1_bar" width="600"/>
+<img src="../../figures/eda_atc/atc_level1_bar.png" alt="atc_level1_bar" width="600"/>
 <p><b>Figure 4</b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level1_pie.png" alt="atc_level1_pie" width="1000"/>
+<img src="../../figures/eda_atc/atc_level1_pie.png" alt="atc_level1_pie" width="1000"/>
 <p><b>Figure 5</b></p>
 </div>
 
@@ -67,61 +67,61 @@ The table shows that most ATC categories have complete or near-complete drug rep
 <p align="center"><b>Table 6: Statistics on the presence of drugs categorized by second-level ATC codes</b></p>
 
 
-Below are bar charts showing the distribution of second-level ATC codes for each first-level ATC category. These charts display the percentage of drugs present in our dataset, as well as the absence of drugs (represented by zero percentages). For pie charts illustrating the same distribution, refer to `figures/atc_level2_pie`.
+Below are bar charts showing the distribution of second-level ATC codes for each first-level ATC category. These charts display the percentage of drugs present in our dataset, as well as the absence of drugs (represented by zero percentages). For pie charts illustrating the same distribution, refer to `atc.ipynb`.
 
 <div align="center">
-<img src="../../figures/atc_level2_A.png" alt="atc_level2_A" width="1000"/>
+<img src="../../figures/eda_atc/atc_level2_A.png" alt="atc_level2_A" width="1000"/>
 <p><b>Figure 6 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_B.png" alt="atc_level2_B" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_B.png" alt="atc_level2_B" width="800"/>
 <p><b>Figure 7 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_C.png" alt="atc_level2_C" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_C.png" alt="atc_level2_C" width="800"/>
 <p><b>Figure 8 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_D.png" alt="atc_level2_D" width="900"/>
+<img src="../../figures/eda_atc/atc_level2_D.png" alt="atc_level2_D" width="900"/>
 <p><b>Figure 9 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_G.png" alt="atc_level2_G" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_G.png" alt="atc_level2_G" width="800"/>
 <p><b>Figure 10 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_H.png" alt="atc_level2_H" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_H.png" alt="atc_level2_H" width="800"/>
 <p><b>Figure 11 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_J.png" alt="atc_level2_J" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_J.png" alt="atc_level2_J" width="800"/>
 <p><b>Figure 12 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_L.png" alt="atc_level2_L" width="700"/>
+<img src="../../figures/eda_atc/atc_level2_L.png" alt="atc_level2_L" width="700"/>
 <p><b>Figure 13 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_M.png" alt="atc_level2_M" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_M.png" alt="atc_level2_M" width="800"/>
 <p><b>Figure 14 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_N.png" alt="atc_level2_N" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_N.png" alt="atc_level2_N" width="800"/>
 <p><b>Figure 15 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_P.png" alt="atc_level2_P" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_P.png" alt="atc_level2_P" width="800"/>
 <p><b>Figure 16 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_R.png" alt="atc_level2_R" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_R.png" alt="atc_level2_R" width="800"/>
 <p><b>Figure 17 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_S.png" alt="atc_level2_S" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_S.png" alt="atc_level2_S" width="800"/>
 <p><b>Figure 18 </b></p>
 </div>
 <div align="center">
-<img src="../../figures/atc_level2_V.png" alt="atc_level2_V" width="800"/>
+<img src="../../figures/eda_atc/atc_level2_V.png" alt="atc_level2_V" width="800"/>
 <p><b>Figure 19 </b></p>
 </div>

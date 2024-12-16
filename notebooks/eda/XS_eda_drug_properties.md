@@ -4,7 +4,7 @@
  
  The dataset was processed for further plotting, and the results are summarized in the table below. It shows the intersections of drugs across four datasets: Ingredients, ATC, DrugBank, and ChEBI. Each row represents a unique combination of whether a drug is present (True) or absent (False) in these datasets, with the corresponding count shown in the rightmost column. The table highlights how many drugs are shared between the datasets and which combinations of presence and absence occur.
  <div align="center">
-  <img src="../../figures/eda_datahandling.png" alt="Drug Intersections" width="400"/>
+  <img src="../../figures/eda_drug_properties/eda_datahandling.png" alt="Drug Intersections" width="400"/>
   <p><b>Table 1:</b> Drug Intersections</p>
 </div>
 
@@ -12,7 +12,7 @@
 
  The Venn diagram shown below illustrates the overlap of drugs across the four datasets: Ingredients, ATC, DrugBank, and ChEBI. 
   <div align="center">
-  <img src="../../figures/eda_venn.png" alt="Venn Diagram" width="500"/>
+  <img src="../../figures/eda_drug_properties/eda_venn.png" alt="Venn Diagram" width="500"/>
   <p><b>Figure 1 </b></p>
 </div>
 
@@ -20,7 +20,7 @@
 
  The UpSet plot shown below provides a detailed visualization of the intersections between the Ingredients, ATC, DrugBank, and ChEBI datasets. It displays the size of each intersection, offering a clearer insight into the distribution of shared and unique drugs across the datasets.
    <div align="center">
-  <img src="../../figures/eda_upset.png" alt="UpSet Plot" width="500"/>
+  <img src="../../figures/eda_drug_properties/eda_upset.png" alt="UpSet Plot" width="500"/>
   <p><b>Figure 2 </b></p>
 </div>
 
@@ -32,19 +32,19 @@
 
 The tables below provide information on a subset of the drugs missing these properties, as displaying all drugs would be impractical due to the large number of entries (e.g. 431 drugs are missing ATC Codes). For the full drug lists of missing properties, see `lacks_atc.csv`, `lacks_drugbank.csv`, `lacks_chebi.csv` and `lacks_ingredients.csv`.
 <div align="center">
-<img src="../../figures/eda_lacking.png" alt="Missing Ingredient" width="400"/>
+<img src="../../figures/eda_drug_properties/eda_lacking.png" alt="Missing Ingredient" width="400"/>
 <p><b>Table 2:</b> Missing Ingredient</p>
 </div>
 <div align="center">
-<img src="../../figures/eda_lackchebi.png" alt="Missing ChEBI Code" width="400"/>
+<img src="../../figures/eda_drug_properties/eda_lackchebi.png" alt="Missing ChEBI Code" width="400"/>
 <p><b>Table 3:</b> Missing ChEBI Code</p>
 </div>
 <div align="center">
-<img src="../../figures/eda_lackatc.png" alt="Missing ATC Code" width="400"/>
+<img src="../../figures/eda_drug_properties/eda_lackatc.png" alt="Missing ATC Code" width="400"/>
 <p><b>Table 4:</b> Missing ATC Code</p>
 </div>
 <div align="center">
-<img src="../../figures/eda_lackdrugbank.png" alt="Missing DrugBank" width="400"/>
+<img src="../../figures/eda_drug_properties/eda_lackdrugbank.png" alt="Missing DrugBank" width="400"/>
 <p><b>Table 5:</b> Missing DrugBank Code</p>
 </div>
 

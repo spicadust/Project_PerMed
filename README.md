@@ -14,9 +14,3 @@ The project uses Rye for dependency management and Ruff for linting & formatting
 2. Install Ruff Extension in VSCode
 3. Run `rye sync` at root
 4. Run `pre-commit install` at root
-
-
-
-
-
-
